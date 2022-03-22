@@ -1,7 +1,7 @@
 [
   {
     "id": "BR.GO",
-    "x": "Auvergne-Rhône-Alpes",
+    "x": "Goiás",
     "value": 946603,
     "market_share": 26,
     "total_share": 46,
@@ -22,7 +22,7 @@
   },
   {
     "id": "BR.MT",
-    "x": "Bourgogne-Franche-Comté",
+    "x": "Mato Grosso",
     "value": 962852,
     "market_share": 56,
     "total_share": 70,
@@ -43,7 +43,7 @@
   },
   {
     "id": "BR.TO",
-    "x": "Bretagne",
+    "x": "Tocantins",
     "value": 519026,
     "market_share": 29,
     "total_share": 47,
@@ -64,7 +64,7 @@
   },
   {
     "id": "BR.MS",
-    "x": "Corse",
+    "x": "Mato Grosso do Sul",
     "value": 540179,
     "market_share": 7,
     "total_share": 44,
@@ -85,7 +85,7 @@
   },
   {
     "id": "BR.RN",
-    "x": "Centre-Val de Loire",
+    "x": "Rio Grande do Norte",
     "value": 398264,
     "market_share": 13,
     "total_share": 31,
@@ -106,7 +106,7 @@
   },
   {
     "id": "BR.AM",
-    "x": "Grand-Est",
+    "x": "Amazonas",
     "value": 1129872,
     "market_share": 41,
     "total_share": 23,
@@ -127,7 +127,7 @@
   },
   {
     "id": "BR.SP",
-    "x": "French Guiana",
+    "x": "São Paulo",
     "value": 368505,
     "market_share": 28,
     "total_share": 50,
@@ -148,7 +148,7 @@
   },
   {
     "id": "BR.MG",
-    "x": "Guadeloupe",
+    "x": "Minas Gerais",
     "value": 386097,
     "market_share": 16,
     "total_share": 20,
@@ -169,7 +169,7 @@
   },
   {
     "id": "BR.SE",
-    "x": "Hauts-de-France",
+    "x": "Sergipe",
     "value": 844451,
     "market_share": 43,
     "total_share": 47,
@@ -190,7 +190,7 @@
   },
   {
     "id": "BR.SC",
-    "x": "Île-de-France",
+    "x": "Santa Catarina",
     "value": 509576,
     "market_share": 8,
     "total_share": 16,
@@ -211,7 +211,7 @@
   },
   {
     "id": "BR.ES",
-    "x": "La Réunion",
+    "x": "Espirito Santo",
     "value": 549959,
     "market_share": 22,
     "total_share": 8,
