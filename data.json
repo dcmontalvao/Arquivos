@@ -1,11 +1,11 @@
 [
   {
     "id": "BR.SP",
-    "x": "BRA-SPA",
-    "Venda Normal": 946603,
+    "x": "São Paulo",
+    "value": 946603,
     "market_share": 26,
     "total_share": 46,
-    "Vendas": [
+    "Receita": [
       ["Jan", 734278, 968],
       ["Feb", 829549, 951],
       ["Mar", 804593, 953],
