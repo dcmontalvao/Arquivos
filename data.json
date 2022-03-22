@@ -2,10 +2,10 @@
   {
     "id": "BR.SP",
     "x": "BRA-SPA",
-    "value": 946603,
+    "Venda Normal": 946603,
     "market_share": 26,
     "total_share": 46,
-    "revenue": [
+    "Vendas": [
       ["Jan", 734278, 968],
       ["Feb", 829549, 951],
       ["Mar", 804593, 953],
