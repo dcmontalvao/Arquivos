@@ -1,1 +1,762 @@
-[{"lat": -16.4701628734998, "long": -54.6335870401784, "name": "Rondonopolis"} ,{"lat": -15.9559696, "long": -54.9751847, "name": "Jaciara"} ,{"lat": -15.8887114516953, "long": -52.2603297567721, "name": "Barra do Garcas"} ,{"lat": -10.6572906, "long": -51.5703097, "name": "Confresa"} ,{"lat": -16.0514298, "long": -54.8858164, "name": "Juscimeira"} ,{"lat": -16.621352, "long": -54.4814404, "name": "Pedra Preta"} ,{"lat": -12.9320485634907, "long": -51.8333633451013, "name": "Ribeirao Cascalheira"} ,{"lat": -15.8103345, "long": -54.9227853, "name": "Dom Aquino"} ,{"lat": -15.8414488, "long": -54.38875969999999, "name": "POXOREO"} ,{"lat": -16.4663303087874, "long": -54.2562463683381, "name": "Sao Jose do Povo"} ,{"lat": -18.5017466, "long": -54.7514842, "name": "Coxim"} ,{"lat": -15.5699890131206, "long": -56.0732520381911, "name": "CUIABA"} ,{"lat": -16.3464196, "long": -53.7579705, "name": "Guiratinga"} ,{"lat": -15.9024713438393, "long": -52.2585111119354, "name": "Pontal do Araguaia"} ,{"lat": -17.2058818, "long": -54.146888, "name": "Itiquira"} ,{"lat": -10.0140784, "long": -51.1190487, "name": "VILA RICA"} ,{"lat": -15.7098868, "long": -52.7578469, "name": "General Carneiro"} ,{"lat": -15.7214894, "long": -51.8371522, "name": "Araguaiana"} ,{"lat": -15.8977681654152, "long": -52.2468547307811, "name": "Aragarcas"} ,{"lat": -15.818135556981, "long": -54.4007326559538, "name": "Poxoreu"} ,{"lat": -16.2067095, "long": -52.1732619, "name": "BOM JARDIM DE GOIAS"} ,{"lat": -16.002708520526, "long": -54.9189931830667, "name": "Sao Pedro da Cipa"} ,{"lat": -14.623784750468, "long": -57.4912991530603, "name": "TANGARA DA SERRA"} ,{"lat": -11.0485891, "long": -51.8230312, "name": "CANABRAVA DO NORTE"} ,{"lat": -15.8628421, "long": -56.0792473, "name": "STO ANTONIO LEVERGER"} ,{"lat": -16.2010336, "long": -52.5575686, "name": "TORIXOREU"} ,{"lat": -15.550791, "long": -55.1677572, "name": "CAMPO VERDE"} ,{"lat": -14.9132695, "long": -53.0186912, "name": "Novo Sao Joaquim"} ,{"lat": -14.6644014, "long": -52.3584778, "name": "NOVA XAVANTINA"} ,{"lat": -16.9467221760397, "long": -53.5284541196243, "name": "ALTO GARCAS"} ,{"lat": -16.0813718, "long": -53.55951049999999, "name": "TESOURO"} ,{"lat": -18.1002708, "long": -54.5544066, "name": "PEDRO GOMES"} ,{"lat": -10.88536, "long": -51.63889200000001, "name": "PORTO ALEGRE NORTE"} ,{"lat": -15.5522935931141, "long": -54.3000532591227, "name": "PRIMAVERA DO LESTE"} ,{"lat": -10.4707909, "long": -50.514432, "name": "SANTA TEREZINHA"} ,{"lat": -18.3259956, "long": -53.7047083, "name": "Alcinopolis"} ,{"lat": -23.5505199, "long": -46.63330939999999, "name": "SAO PAULO"} ,{"lat": -14.5123192, "long": -52.8851041, "name": "CAMPINAPOLIS"} ,{"lat": -14.3910728, "long": -51.0046918, "name": "COCALINHO"} ,{"lat": -10.7986075, "long": -52.74905150000001, "name": "SAO JOSE DO XINGU"} ,{"lat": -14.0490868003435, "long": -52.1589152986038, "name": "AGUA BOA"} ,{"lat": -17.5702187, "long": -54.7556026, "name": "SONORA"} ,{"lat": -11.617526, "long": -50.66626280000001, "name": "SAO FELIX ARAGUAIA"} ,{"lat": -15.6580648240885, "long": -56.1446637401866, "name": "VARZEA GRANDE"} ,{"lat": -14.4268795, "long": -54.05289699999999, "name": "PARANATINGA"} ,{"lat": -14.9331028, "long": -54.9739052, "name": "NOVA BRASILANDIA"} ,{"lat": -16.1969561, "long": -52.5464478, "name": "BALIZA"} ,{"lat": -17.3157703, "long": -53.2186041, "name": "ALTO ARAGUAIA"} ,{"lat": -12.5922996263044, "long": -52.2098919155942, "name": "QUERENCIA"} ,{"lat": -13.5564739, "long": -52.2691123, "name": "CANARANA"} ,{"lat": -16.2664706, "long": -56.6265989, "name": "POCONE"} ,{"lat": -16.6868912, "long": -49.2647943, "name": "GOIANIA"} ,{"lat": -18.9143628, "long": -54.8531719, "name": "RIO VERDE DE MATO GR"} ,{"lat": -12.1780387, "long": -51.5064836, "name": "BOM JESUS ARAGUAIA"} ,{"lat": -20.4697105, "long": -54.6201211, "name": "CAMPO GRANDE"} ,{"lat": -10.1553158, "long": -52.3919119, "name": "SANTA CRUZ DO XINGU"} ,{"lat": -16.4860736, "long": -52.6929123, "name": "RIBEIRAOZINHO"} ,{"lat": -14.8264275714772, "long": -56.4282932054054, "name": "ROSARIO OESTE"} ,{"lat": -15,8414488, "long": -54,38875969999999, "name": "POXOREU"} ,{"lat": -11.222275, "long": -50.6718982, "name": "LUCIARA"} ,{"lat": -15.4647751, "long": -55.75034909999999, "name": "CHAPADA GUIMARAES"} ,{"lat": -13.2447109, "long": -53.081383, "name": "GAUCHA DO NORTE"} ,{"lat": -16.7588516, "long": -52.837339, "name": "PONTE BRANCA"} ,{"lat": -16.0768443, "long": -57.68230429999999, "name": "CACERES"} ,{"lat": -16.196747, "long": -55.9663215, "name": "BARAO DE MELGACO"} ,{"lat": -9.463668799999999, "long": -59.2229749, "name": "COLNIZA"} ,{"lat": -17.1445075, "long": -47.4657363, "name": "MONTES CLAROS GOIAS"} ,{"lat": -12.2946934832423, "long": -50.9691726452052, "name": "NOVO SANTO ANTONIO"} ,{"lat": -9.867149699999999, "long": -56.08718769999999, "name": "ALTA FLORESTA"} ,{"lat": -6.6413689, "long": -51.9825344, "name": "SAO FELIX DO XINGU"} ,{"lat": -16.7192646, "long": -52.3193312, "name": "DOVERLANDIA"} ,{"lat": -14.4956518, "long": -57.00306, "name": "SANTO AFONSO"} ,{"lat": -14.6522035, "long": -54.7823407, "name": "PLANALTO DA SERRA"} ,{"lat": -18.9146078, "long": -48.2753801, "name": "UBERLANDIA"} ,{"lat": -25.4289541, "long": -49.267137, "name": "CURITIBA"} ,{"lat": -19.0081688, "long": -57.65155029999999, "name": "CORUMBA"} ,{"lat": -9.983333, "long": -59.3, "name": "ARIPUANA"} ,{"lat": -14.4040989, "long": -56.4370932, "name": "DIAMANTINO"} ,{"lat": -15.0705872, "long": -57.1882847, "name": "BARRA DO BUGRES"} ,{"lat": -11.6736204, "long": -51.38878020000001, "name": "ALTO BOA VISTA"} ,{"lat": -12.0923014, "long": -51.4020247, "name": "SERRA NOVA DOURADA"} ,{"lat": -15.7942287, "long": -47.8821658, "name": "BRASILIA"} ,{"lat": -15.7724561, "long": -56.3437388, "name": "NSA SRA LIVRAMENTO"} ,{"lat": -14.7185532, "long": -56.3354752, "name": "NOBRES"} ,{"lat": -16.4262523, "long": -51.8239388, "name": "PIRANHAS"} ,{"lat": -15.1944545, "long": -56.3637215, "name": "ACORIZAL"} ,{"lat": -18.6814793, "long": -53.6434979, "name": "FIGUEIRAO"} ,{"lat": -11.8608456, "long": -55.5095451, "name": "SINOP"} ,{"lat": -14.3648646, "long": -56.9722743, "name": "NOVA MARILANDIA"} ,{"lat": -23.4542498, "long": -46.5337925, "name": "GUARULHOS"} ,{"lat": -13.837813, "long": -56.0748066, "name": "NOVA MUTUM"} ,{"lat": -19.9166813, "long": -43.9344931, "name": "BELO HORIZONTE"} ,{"lat": -13.9900283, "long": -51.7993431, "name": "NOVA NAZARE"} ,{"lat": -14.7791922, "long": -57.28068349999999, "name": "NOVA OLIMPIA"} ,{"lat": -15.556887, "long": -54.2880392, "name": "SANTO ANTONIO LESTE"} ,{"lat": -19.3872935, "long": -54.5930467, "name": "SAO GABRIEL DO OESTE"} ,{"lat": -16.820257, "long": -49.2473044, "name": "APARECIDA DE GOIANIA"} ,{"lat": -15.8747265, "long": -50.8640537, "name": "JUSSARA"} ,{"lat": -12.5429456, "long": -55.72153669999999, "name": "SORRISO"} ,{"lat": -23.0306726, "long": -46.9837599, "name": "VINHEDO"} ,{"lat": -30.0346471, "long": -51.2176584, "name": "PORTO ALEGRE"} ,{"lat": -23.5113691, "long": -46.87294199999999, "name": "BARUERI"} ,{"lat": -16.8575952, "long": -53.0336925, "name": "ARAGUAINHA"} ,{"lat": -13.2734823, "long": -50.16385, "name": "SAO MIGUEL ARAGUAIA"} ,{"lat": -19.7473668, "long": -47.93915399999999, "name": "UBERABA"} ,{"lat": -22.9099384, "long": -47.0626332, "name": "CAMPINAS"} ,{"lat": -21.1704008, "long": -47.8103238, "name": "RIBEIRAO PRETO"} ,{"lat": -17.8220806, "long": -53.2803034, "name": "ALTO TAQUARI"} ,{"lat": -22.9068467, "long": -43.1728965, "name": "RIO DE JANEIRO"} ,{"lat": -20.1215224, "long": -40.3077898, "name": "SERRA"} ,{"lat": -16.9543259, "long": -51.809544, "name": "CAIAPONIA"} ,{"lat": -26.3044084, "long": -48.84638320000001, "name": "JOINVILLE"} ,{"lat": -23.3044524, "long": -51.1695824, "name": "LONDRINA"} ,{"lat": -13.5479905, "long": -58.820385, "name": "SAPEZAL"} ,{"lat": -15.2354734, "long": -56.49218949999999, "name": "JANGADA"} ,{"lat": -22.121126, "long": -51.393006, "name": "PRESIDENTE PRUDENTE"} ,{"lat": -15.6767058, "long": -58.0929375, "name": "MIRASSOL D'OESTE"} ,{"lat": -16.328546, "long": -48.95340299999999, "name": "ANAPOLIS"} ,{"lat": -25.0994246, "long": -50.15832229999999, "name": "PONTA GROSSA"} ,{"lat": -22.0087082, "long": -47.8909263, "name": "SAO CARLOS"} ,{"lat": -23.4209995, "long": -51.9330558, "name": "MARINGA"} ,{"lat": -15.4706525, "long": -58.3457056, "name": "ARAPUTANGA"} ,{"lat": -22.223561, "long": -54.8125486, "name": "DOURADOS"} ,{"lat": -11.2535221, "long": -57.50823029999999, "name": "JUARA"} ,{"lat": -11.4228527, "long": -58.7571771, "name": "JUINA"} ,{"lat": -12.1254939, "long": -58.0067574, "name": "BRASNORTE"} ,{"lat": -14.4544473, "long": -56.79501270000001, "name": "NORTELANDIA"} ,{"lat": -9.336622799999999, "long": -50.3413851, "name": "SANTANA DO ARAGUAIA"} ,{"lat": -15.3239452, "long": -57.2209045, "name": "PORTO ESTRELA"} ,{"lat": -9.672011399999999, "long": -56.4736991, "name": "PARANAITA"} ,{"lat": -22.7342864, "long": -47.6480644, "name": "PIRACICABA"} ,{"lat": -15.2332271, "long": -59.328245, "name": "PONTES E LACERDA"} ,{"lat": -19.5351258, "long": -54.0435563, "name": "CAMAPUA"} ,{"lat": -26.9105964, "long": -48.6709514, "name": "ITAJAI"} ,{"lat": -9.849800499999999, "long": -57.8141756, "name": "NOVA BANDEIRANTES"} ,{"lat": -29.1634031, "long": -51.1796683, "name": "CAXIAS DO SUL"} ,{"lat": -20.2810232, "long": -50.2475804, "name": "FERNANDOPOLIS"} ,{"lat": -25.5318354, "long": -49.2035722, "name": "SAO JOSE DOS PINHAIS"} ,{"lat": -21.6029893, "long": -48.3644226, "name": "MATAO"} ,{"lat": -20.811761, "long": -49.3762272, "name": "SAO JOSE RIO PRETO"} ,{"lat": -9.9501051, "long": -54.9147025, "name": "GUARANTA DO NORTE"} ,{"lat": -19.1097385, "long": -51.736543, "name": "CASSILANDIA"} ,{"lat": -14.732823, "long": -57.058761, "name": "DENISE"} ,{"lat": -9.9797352, "long": -57.4673472, "name": "NOVA MONTE VERDE"} ,{"lat": -5.1841285, "long": -37.3477805, "name": "MOSSORO"} ,{"lat": -29.7549941, "long": -51.150283, "name": "SAO LEOPOLDO"} ,{"lat": -15.3176394, "long": -58.00336249999999, "name": "LAMBARI D'OESTE"} ,{"lat": -17.5624415, "long": -52.5489206, "name": "MINEIROS"} ,{"lat": -13.6592549, "long": -57.89299029999999, "name": "CAMPO NOVO PARECIS"} ,{"lat": -16.3841717, "long": -51.5567448, "name": "ARENOPOLIS"} ,{"lat": -10.8040897790092, "long": -55.4642305419601, "name": "COLIDER"} ,{"lat": -25.586431, "long": -49.4052251, "name": "Araucaria"} ,{"lat": -9.9022872, "long": -58.56838819999999, "name": "COTRIGUACU"} ,{"lat": -7.811377199999999, "long": -50.76763709999999, "name": "CUMARU DO NORTE"} ,{"lat": -10.2446913, "long": -54.9887218, "name": "PEIXOTO DE AZEVEDO"} ,{"lat": -15.8574535, "long": -58.4624357, "name": "PORTO ESPERIDIAO"} ,{"lat": -9.567153099999999, "long": -57.3952399, "name": "APIACAS"} ,{"lat": -13.0704649508999, "long": -55.9217707091117, "name": "LUCAS DO RIO VERDE"} ,{"lat": -17.8796049, "long": -51.7206735, "name": "JATAI"} ,{"lat": -13.0338277159556, "long": -55.273213318984, "name": "NOVA UBIRATA"} ,{"lat": -19.9161508, "long": -44.0808763, "name": "CONTAGEM"} ,{"lat": -15.1307713, "long": -58.1322278, "name": "SALTO DO CEU"} ,{"lat": -13.0310655, "long": -57.0918949, "name": "NOVA MARINGA"} ,{"lat": -13.7214725, "long": -59.26035400000001, "name": "CAMPOS DE JULIO"} ,{"lat": -4.98107, "long": -37.1624128, "name": "GROSSOS"} ,{"lat": -22.5665354, "long": -47.3974368, "name": "LIMEIRA"} ,{"lat": -15.2432008, "long": -51.1606653, "name": "BRITANIA"} ,{"lat": -14.4475842, "long": -56.844221, "name": "ARENAPOLIS"} ,{"lat": -22.2270778, "long": -45.93937160000001, "name": "POUSO ALEGRE"} ,{"lat": -20.4449913, "long": -53.759311, "name": "RIBAS DO RIO PARDO"} ,{"lat": -17.3273564, "long": -53.20171509999999, "name": "SANTA RITA ARAGUAIA"} ,{"lat": -22.8209029, "long": -47.2732726, "name": "SUMARE"} ,{"lat": -11.3152879, "long": -56.82003289999999, "name": "TABAPORA"} ,{"lat": -23.4849456, "long": -46.3494828, "name": "ITAQUAQUECETUBA"} ,{"lat": -18.9745738, "long": -49.4600885, "name": "ITUIUTABA"} ,{"lat": -10.8781412, "long": -61.93267280000001, "name": "JI-PARANA"} ,{"lat": -23.5328814, "long": -46.7920029, "name": "OSASCO"} ,{"lat": -26.4254626, "long": -51.3177199, "name": "GENERAL CARNEIRO"} ,{"lat": -14.9170433, "long": -51.075466, "name": "ARUANA"} ,{"lat": -18.543654, "long": -53.1292138, "name": "COSTA RICA"} ,{"lat": -15.6280113, "long": -58.1777253, "name": "S. JOSE QTRO MARCOS"} ,{"lat": -22.4189485, "long": -48.4508003, "name": "MINEIROS DO TIETE"} ,{"lat": -18.6460396, "long": -48.1938367, "name": "ARAGUARI"} ,{"lat": -10.3334408, "long": -58.4930015, "name": "JURUENA"} ,{"lat": -12.2597272, "long": -38.9646608, "name": "FEIRA DE SANTANA"} ,{"lat": -19.67511, "long": -51.1913338, "name": "PARANAIBA"} ,{"lat": -10.8415249, "long": -61.460134, "name": "RONDOLANDIA"} ,{"lat": -14.0116144, "long": -56.8032918, "name": "SAO JOSE RIO CLARO"} ,{"lat": -22.2175846, "long": -49.9505291, "name": "MARILIA"} ,{"lat": -20.8173456, "long": -49.5210713, "name": "MIRASSOL"} ,{"lat": -29.6880479, "long": -51.1333376, "name": "NOVO HAMBURGO"} ,{"lat": -11.5323149, "long": -61.0169967, "name": "ESPIGAO D'OESTE"} ,{"lat": -22.8533412, "long": -47.2147082, "name": "HORTOLANDIA"} ,{"lat": -23.2664186, "long": -51.0527244, "name": "IBIPORA"} ,{"lat": -23.0886774, "long": -47.2089544, "name": "INDAIATUBA"} ,{"lat": -23.277052, "long": -51.2803152, "name": "CAMBE"} ,{"lat": -29.6873064, "long": -53.81547690000001, "name": "SANTA MARIA"} ,{"lat": -26.3766505, "long": -48.7188884, "name": "ARAQUARI"} ,{"lat": -10.1657159, "long": -54.9367591, "name": "MATUPA"} ,{"lat": -20.235958, "long": -56.3751037, "name": "Miranda"} ,{"lat": -20.534071, "long": -49.3203553, "name": "NOVA GRANADA"} ,{"lat": -20.5374331, "long": -56.713229, "name": "BODOQUENA"} ,{"lat": -22.7862985, "long": -43.3053106, "name": "DUQUE DE CAXIAS"} ,{"lat": -23.5504385, "long": -51.4639716, "name": "APUCARANA"} ,{"lat": -21.2028539, "long": -50.4536793, "name": "ARACATUBA"} ,{"lat": -25.4596714, "long": -49.527294, "name": "CAMPO LARGO"} ,{"lat": -23.2140719, "long": -46.8238911, "name": "VARZEA PAULISTA"} ,{"lat": -16.4402109, "long": -51.11851069999999, "name": "IPORA"} ,{"lat": -15.3122723, "long": -49.11664409999999, "name": "GOIANESIA"} ,{"lat": -10.249091, "long": -48.32428580000001, "name": "PALMAS"} ,{"lat": -25.4434411, "long": -49.1931448, "name": "PINHAIS"} ,{"lat": -22.4573223, "long": -47.5325941, "name": "SANTA GERTRUDES"} ,{"lat": -23.5015299, "long": -47.45256029999999, "name": "SOROCABA"} ,{"lat": -15.8209352, "long": -50.6091239, "name": "ITAPIRAPUA"} ,{"lat": -23.0039859, "long": -46.8467996, "name": "ITATIBA"} ,{"lat": -21.2525138, "long": -48.3256762, "name": "JABOTICABAL"} ,{"lat": -26.4822209, "long": -49.073477, "name": "JARAGUA DO SUL"} ,{"lat": -23.5213131, "long": -46.1858528, "name": "MOGI DAS CRUZES"} ,{"lat": -26.8947924, "long": -48.6550692, "name": "NAVEGANTES"} ,{"lat": -7.0402685, "long": -55.4152492, "name": "NOVO PROGRESSO"} ,{"lat": -10.6369453, "long": -55.7089285, "name": "NOVA CANAA DO NORTE"} ,{"lat": -11.1372693, "long": -58.6086747, "name": "CASTANHEIRA"} ,{"lat": -16.1838164, "long": -50.7785696, "name": "FAZENDA NOVA"} ,{"lat": -20.4419565, "long": -52.8781784, "name": "AGUA CLARA"} ,{"lat": -3.1986664, "long": -52.2104006, "name": "ALTAMIRA"} ,{"lat": -20.8933441, "long": -47.5925952, "name": "BATATAIS"} ,{"lat": -19.9673078, "long": -44.2011904, "name": "BETIM"} ,{"lat": -26.9165792, "long": -49.0717331, "name": "BLUMENAU"} ,{"lat": -15.3345945, "long": -58.872779, "name": "JAURU"} ,{"lat": -14.0961125, "long": -50.3304108, "name": "NOVA CRIXAS"} ,{"lat": -21.255537, "long": -52.0364941, "name": "BRASILANDIA"} ,{"lat": -21.1318555, "long": -48.977473, "name": "CATANDUVA"} ,{"lat": -22.7650153, "long": -47.1500274, "name": "PAULINIA"} ,{"lat": -16.3791705, "long": -49.4905773, "name": "INHUMAS"} ,{"lat": -16.2333816, "long": -51.2547942, "name": "DIORAMA"} ,{"lat": -23.4157731, "long": -51.4264048, "name": "ARAPONGAS"} ,{"lat": -23.6742228, "long": -46.5436003, "name": "SANTO ANDRE"} ,{"lat": -23.223701, "long": -45.9009074, "name": "SAO JOSE DOS CAMPOS"} ,{"lat": -22.7378463, "long": -47.33356879999999, "name": "AMERICANA"} ,{"lat": -20.4670046, "long": -55.7872944, "name": "AQUIDAUANA"} ,{"lat": -23.437091, "long": -47.0612809, "name": "ARACARIGUAMA"} ,{"lat": -12.9257287, "long": -49.8300402, "name": "ARAGUACU"} ,{"lat": -15.2939716, "long": -59.0614228, "name": "VALE DE SAO DOMINGOS"} ,{"lat": -20.4173291, "long": -49.9702752, "name": "VOTUPORANGA"} ,{"lat": -10.7985558, "long": -37.1734606, "name": "LARANJEIRAS"} ,{"lat": -26.9061983, "long": -52.7016308, "name": "CORONEL FREITAS"} ,{"lat": -18.0127875, "long": -49.36660819999999, "name": "GOIATUBA"} ,{"lat": -22.2131635, "long": -49.65553939999999, "name": "GARCA"} ,{"lat": -21.7668575, "long": -52.10964269999999, "name": "PRESIDENTE EPITACIO"} ,{"lat": -27.2160932, "long": -49.6435018, "name": "RIO DO SUL"} ,{"lat": -17.79272, "long": -50.9196585, "name": "RIO VERDE"} ,{"lat": -23.6443472, "long": -47.5720968, "name": "SALTO DE PIRAPORA"} ,{"lat": -26.2584141, "long": -48.6348454, "name": "SAO FRANCISCO DO SUL"} ,{"lat": -5.1083383, "long": -36.6321702, "name": "MACAU"} ,{"lat": -20.1448418, "long": -50.1977336, "name": "MACEDONIA"} ,{"lat": -22.4362174, "long": -46.8228786, "name": "ITAPIRA"} ,{"lat": -18.409728, "long": -49.2162971, "name": "ITUMBIARA"} ,{"lat": -20.2686874, "long": -50.5490441, "name": "JALES"} ,{"lat": -21.0277616, "long": -47.77720490000001, "name": "JARDINOPOLIS"} ,{"lat": -18.8729732, "long": -48.877007, "name": "MONTE ALEGRE MINAS"} ,{"lat": -9.9755912, "long": -55.1778612, "name": "NOVO MUNDO"} ,{"lat": -21.4600327, "long": -54.380577, "name": "NOVA ALVORADA DO SUL"} ,{"lat": -12.6720125, "long": -38.5475041, "name": "CANDEIAS"} ,{"lat": -29.9132584, "long": -51.1861921, "name": "CANOAS"} ,{"lat": -29.2950409, "long": -51.50089209999999, "name": "CARLOS BARBOSA"} ,{"lat": -27.1009343, "long": -52.615699, "name": "CHAPECO"} ,{"lat": -20.4438418, "long": -44.7653198, "name": "CLAUDIO"} ,{"lat": -21.4908289, "long": -51.5384258, "name": "DRACENA"} ,{"lat": -29.501873, "long": -51.9640632, "name": "ESTRELA"} ,{"lat": -20.2866742, "long": -50.400972, "name": "ESTRELA D OESTE"} ,{"lat": -22.8532103, "long": -46.3216978, "name": "Extrema"} ,{"lat": -15.4477405, "long": -50.3626588, "name": "FAINA"} ,{"lat": -23.8401119, "long": -50.1924435, "name": "IBAITI"} ,{"lat": -25.2293043, "long": -50.6054136, "name": "IMBITUVA"} ,{"lat": -21.2528671, "long": -50.6458503, "name": "GUARARAPES"} ,{"lat": -14.5134819, "long": -56.48388000000001, "name": "ALTO PARAGUAI"} ,{"lat": -23.1083066, "long": -55.22566699999999, "name": "AMAMBAI"} ,{"lat": -20.0877391, "long": -51.0966063, "name": "APARECIDA DO TABOADO"} ,{"lat": -20.9163728, "long": -49.4487934, "name": "BADY BASSITT"} ,{"lat": -21.7204699, "long": -52.4296731, "name": "BATAGUASSU"} ,{"lat": -22.1430244, "long": -48.5255753, "name": "BOCAINA"} ,{"lat": -21.3407385, "long": -47.7352517, "name": "CRAVINHOS"} ,{"lat": -22.8841808, "long": -48.4441654, "name": "BOTUCATU"} ,{"lat": -29.9477228, "long": -51.1021166, "name": "CACHOEIRINHA"} ,{"lat": -18.5598391, "long": -51.1332652, "name": "CACU"} ,{"lat": -23.3555044, "long": -46.8785941, "name": "CAJAMAR"} ,{"lat": -22.0782122, "long": -51.4741472, "name": "ALVARES MACHADO"} ,{"lat": -23.086061, "long": -46.9488168, "name": "LOUVEIRA"} ,{"lat": -4.2670701, "long": -55.99311729999999, "name": "ITAITUBA"} ,{"lat": -12.2336361, "long": -56.6404302, "name": "ITANHANGA"} ,{"lat": -27.0960682, "long": -48.6178074, "name": "ITAPEMA"} ,{"lat": -23.1577081, "long": -47.043707, "name": "ITUPEVA"} ,{"lat": -27.4156778, "long": -49.603384, "name": "ITUPORANGA"} ,{"lat": -23.5991226, "long": -51.6386494, "name": "JANDAIA DO SUL"} ,{"lat": -16.177735, "long": -50.9512258, "name": "JAUPACI"} ,{"lat": -27.1743773, "long": -51.5054475, "name": "JOACABA"} ,{"lat": -23.5169863, "long": -51.687206, "name": "MANDAGUARI"} ,{"lat": -11.0843575, "long": -54.52135730000001, "name": "MARCELANDIA"} ,{"lat": -15.4346137, "long": -50.7461006, "name": "MATRINCHA"} ,{"lat": -17.4443857, "long": -51.1732795, "name": "MONTIVIDIU"} ,{"lat": -25.4827475, "long": -48.8290713, "name": "MORRETES"} ,{"lat": -10.8369047, "long": -55.1787819, "name": "NOVA SANTA HELENA"} ,{"lat": -20.7175404, "long": -47.88581869999999, "name": "ORLANDIA"} ,{"lat": -14.4670392, "long": -48.454488, "name": "NIQUELANDIA"} ,{"lat": -21.7848272, "long": -48.1786486, "name": "ARARAQUARA"} ,{"lat": -29.6173325, "long": -50.9296355, "name": "ARARICA"} ,{"lat": -16.506621, "long": -49.0213663, "name": "GOIANAPOLIS"} ,{"lat": -18.4433546, "long": -50.1357072, "name": "GOUVELANDIA"} ,{"lat": -18.7532048, "long": -44.4306733, "name": "CURVELO"} ,{"lat": -21.9159048, "long": -47.6202675, "name": "DESCALVADO"} ,{"lat": -9.9495234, "long": -55.8421532, "name": "CARLINDA"} ,{"lat": -15.3527972, "long": -49.70689040000001, "name": "CARMO DO RIO VERDE"} ,{"lat": -20.540812, "long": -44.6386557, "name": "CARMOPOLIS DE MINAS"} ,{"lat": -1.2983288, "long": -47.9171616, "name": "CASTANHAL"} ,{"lat": -18.1660958, "long": -47.9444845, "name": "CATALAO"} ,{"lat": -21.5591769, "long": -50.4484745, "name": "CLEMENTINA"} ,{"lat": -13.6618517, "long": -59.78526469999999, "name": "COMODORO"} ,{"lat": -21.1094506, "long": -44.0206193, "name": "DORES DE CAMPOS"} ,{"lat": -27.6349085, "long": -52.2737365, "name": "ERECHIM"} ,{"lat": -29.2231867, "long": -51.3423619, "name": "FARROUPILHA"} ,{"lat": -15.4443432, "long": -58.73966039999999, "name": "FIGUEIROPOLIS DOESTE"} ,{"lat": -27.5953778, "long": -48.5480499, "name": "FLORIANOPOLIS"} ,{"lat": -11.8051419686495, "long": -49.5268603629125, "name": "FORMOSO DO ARAGUAIA"} ,{"lat": -25.5163356, "long": -54.58537639999999, "name": "FOZ DO IGUACU"} ,{"lat": -20.5393288, "long": -47.4013437, "name": "FRANCA"} ,{"lat": -27.3607338, "long": -53.3963199, "name": "FREDERICO WESTPHALEN"} ,{"lat": -26.9027829, "long": -48.8255937, "name": "ILHOTA"} ,{"lat": -19.7281763, "long": -51.9285744, "name": "INOCENCIA"} ,{"lat": -19.7369189, "long": -45.25101249999999, "name": "BOM DESPACHO"} ,{"lat": -3.7318616, "long": -38.5266704, "name": "FORTALEZA"} ,{"lat": -21.6824831, "long": -51.0741711, "name": "ADAMANTINA"} ,{"lat": -22.4714626, "long": -48.9790314, "name": "AGUDOS"} ,{"lat": -29.991901, "long": -51.08136769999999, "name": "ALVORADA"} ,{"lat": -7.192773300000001, "long": -48.20482699999999, "name": "ARAGUAINA"} ,{"lat": -23.3969682, "long": -46.3204265, "name": "ARUJA"} ,{"lat": -23.2400211, "long": -51.6639768, "name": "ASTORGA"} ,{"lat": -19.9279445, "long": -54.3589527, "name": "BANDEIRANTES"} ,{"lat": -22.314459, "long": -49.0586951, "name": "BAURU"} ,{"lat": -1.4557549, "long": -48.4901799, "name": "BELEM"} ,{"lat": 2.8235098, "long": -60.6758331, "name": "BOA VISTA"} ,{"lat": -16.2922214, "long": -50.5507581, "name": "CORREGO DO OURO"} ,{"lat": -28.6727702, "long": -49.3733771, "name": "CRICIUMA"} ,{"lat": -27.6178317, "long": -53.741034, "name": "BRAGA"} ,{"lat": -26.7761609, "long": -51.0124989, "name": "CACADOR"} ,{"lat": -18.7622855, "long": -50.94370929999999, "name": "CACHOEIRA ALTA"} ,{"lat": -24.7300224, "long": -48.108265, "name": "CAJATI"} ,{"lat": -11.061835, "long": -55.27705419999999, "name": "ITAUBA"} ,{"lat": -23.2548858, "long": -47.2931392, "name": "ITU"} ,{"lat": -7.119495799999999, "long": -34.8450118, "name": "JOAO PESSOA"} ,{"lat": -22.9798796, "long": -49.86993770000001, "name": "OURINHOS"} ,{"lat": -21.4876185, "long": -51.70287820000001, "name": "OURO VERDE"} ,{"lat": -22.8858975, "long": -43.1152211, "name": "NITEROI"} ,{"lat": -23.5337777, "long": -46.3477362, "name": "POA"} ,{"lat": -20.4492003, "long": -50.8839767, "name": "APARECIDA D'OESTE"} ,{"lat": -20.7371116, "long": -48.9110606, "name": "OLIMPIA"} ,{"lat": -12.7414031, "long": -60.1304566, "name": "VILHENA"} ,{"lat": -8.870484, "long": -49.7168001, "name": "STA MARIA BARREIRAS"} ,{"lat": -22.5112498, "long": -43.1779306, "name": "PETROPOLIS"} ,{"lat": -8.7672709, "long": -63.85973869999999, "name": "S. FRANCISCO GUAPORE"} ,{"lat": -27.7841041, "long": -54.2344607, "name": "TRES DE MAIO"} ,{"lat": -4.9508443, "long": -37.12582829999999, "name": "AREIA BRANCA"} ,{"lat": -23.6233625, "long": -46.5552433, "name": "SAO CAETANO DO SUL"} ,{"lat": -22.8433599, "long": -42.1030012, "name": "SAO PEDRO DA ALDEIA"} ,{"lat": 0, "long": 0, "name": "S. VALERIO NATIV."} ,{"lat": -26.8745844992386, "long": -52.4046671389754, "name": "XANXERE"} ,{"lat": -20.4827446, "long": -55.8108596, "name": "ANASTACIO"} ,{"lat": -21.4044336, "long": -50.4751106, "name": "BILAC"} ,{"lat": -20.4759414, "long": -49.7832093, "name": "COSMORAMA"} ,{"lat": -22.5905906, "long": -46.5282973, "name": "SOCORRO"} ,{"lat": -20.7881689, "long": -51.7030483, "name": "TRES LAGOAS"} ,{"lat": -15.5040677, "long": -49.6815627, "name": "URUANA"} ,{"lat": -12.2861855, "long": -55.2973328, "name": "VERA"} ,{"lat": -29.942289, "long": -50.9907877, "name": "GRAVATAI"} ,{"lat": -12.2409126, "long": -56.1524586, "name": "IPIRANGA DO NORTE"} ,{"lat": -16.9657527, "long": -49.231423, "name": "HIDROLANDIA"} ,{"lat": -23.1857076, "long": -46.8978057, "name": "JUNDIAI"} ,{"lat": -27.0982053, "long": -48.9111422, "name": "BRUSQUE"} ,{"lat": -24.9577771, "long": -53.45951119999999, "name": "CASCAVEL"} ,{"lat": -29.8524632, "long": -51.1845758, "name": "ESTEIO"} ,{"lat": -24.0671967, "long": -53.8466295, "name": "FRANCISCO ALVES"} ,{"lat": -22.2923241, "long": -49.5508222, "name": "GALIA"} ,{"lat": -22.7186089, "long": -42.6279835, "name": "RIO BONITO"} ,{"lat": -32.0353776, "long": -52.1075802, "name": "RIO GRANDE"} ,{"lat": -14.4748906, "long": -59.5889993, "name": "NOVA LACERDA"} ,{"lat": -17.3558287, "long": -52.6804144, "name": "PORTELANDIA"} ,{"lat": -19.3101506, "long": -48.9277299, "name": "PRATA"} ,{"lat": -18.4476442, "long": -50.4551598, "name": "QUIRINOPOLIS"} ,{"lat": -25.4245708, "long": -50.0048569, "name": "PALMEIRA"} ,{"lat": -28.2866506, "long": -53.4989324, "name": "PANAMBI"} ,{"lat": -25.5165725, "long": -48.5229975, "name": "PARANAGUA"} ,{"lat": -23.0821226, "long": -52.4622155, "name": "PARANAVAI"} ,{"lat": -21.7797682, "long": -50.7917923, "name": "PARAPUA"} ,{"lat": -17.934808, "long": -49.9332694, "name": "SANTO ANTONIO GOIAS"} ,{"lat": -8.0256958, "long": -50.0321264, "name": "REDENCAO"} ,{"lat": -19.4474869, "long": -54.9863706, "name": "RIO NEGRO"} ,{"lat": -15.7668696, "long": -51.104166, "name": "SANTA FE DE GOIAS"} ,{"lat": -13.8158121, "long": -55.2743359, "name": "SANTA RITA TRIVELATO"} ,{"lat": -21.9750453, "long": -51.653094, "name": "SANTO ANASTACIO"} ,{"lat": -23.0573768, "long": -51.0449341, "name": "SERTANOPOLIS"} ,{"lat": -21.1494605, "long": -47.9923651, "name": "SERTAOZINHO"} ,{"lat": -19.45738, "long": -44.2416695, "name": "SETE LAGOAS"} ,{"lat": -23.6228759, "long": -46.7816647, "name": "TABOAO DA SERRA"} ,{"lat": -20.4383001, "long": -54.8652419, "name": "TERENOS"} ,{"lat": -26.8251371, "long": -49.26952, "name": "TIMBO"} ,{"lat": -28.292455, "long": -49.9375873, "name": "SAO JOAQUIM"} ,{"lat": -27.6140791, "long": -48.6370861, "name": "SAO JOSE"} ,{"lat": -16.1252647, "long": -50.21417959999999, "name": "MOSSAMEDES"} ,{"lat": -25.4079504, "long": -52.4134746, "name": "LARANJEIRAS DO SUL"} ,{"lat": -21.2484875, "long": -45.0013747, "name": "LAVRAS"} ,{"lat": -22.1813407, "long": -47.3845574, "name": "LEME"} ,{"lat": -23.2860188, "long": -47.6790285, "name": "BOITUVA"} ,{"lat": -13.6511098, "long": -49.8366318, "name": "BONOPOLIS"} ,{"lat": -3.1190275, "long": -60.0217314, "name": "MANAUS"} ,{"lat": -16.763784, "long": -49.4377043, "name": "ABADIA DE GOIAS"} ,{"lat": -16.1976908, "long": -48.7060608, "name": "ABADIANIA"} ,{"lat": -23.3000742, "long": -50.3134765, "name": "ABATIA"} ,{"lat": -9.621427599999999, "long": -49.1522798, "name": "ABREULANDIA"} ,{"lat": -17.3964433, "long": -50.3753614, "name": "ACREUNA"} ,{"lat": -6.803477699999999, "long": -50.4863226, "name": "AGUA AZUL DO NORTE"} ,{"lat": -27.0759089, "long": -52.98135569999999, "name": "AGUAS DE CHAPECO"} ,{"lat": -22.6000062, "long": -47.8750405, "name": "AGUAS DE SAO PEDRO"} ,{"lat": -20.3208093, "long": -49.9145889, "name": "ALVARES FLORENCE"} ,{"lat": -22.7080593, "long": -46.7726654, "name": "AMPARO"} ,{"lat": -22.1856373, "long": -52.7195462, "name": "ANAURILANDIA"} ,{"lat": -20.8990077, "long": -51.3797039, "name": "ANDRADINA"} ,{"lat": -27.5178524, "long": -48.7684454, "name": "ANTONIO CARLOS"} ,{"lat": -27.1591792, "long": -52.1427686, "name": "ARABUTA"} ,{"lat": -10.9472468, "long": -37.0730823, "name": "ARACAJU"} ,{"lat": -15.0912941, "long": -50.631966, "name": "ARAGUAPAZ"} ,{"lat": -23.1175492, "long": -46.5567066, "name": "ATIBAIA"} ,{"lat": -20.6841832, "long": -50.5484648, "name": "AURIFLAMA"} ,{"lat": -2.1331723, "long": -47.5606833, "name": "AURORA DO PARA"} ,{"lat": -7.203209800000001, "long": -47.7590137, "name": "BABACULANDIA"} ,{"lat": -22.472994, "long": -48.5637543, "name": "BARRA BONITA"} ,{"lat": -26.6331439, "long": -48.6846608, "name": "BARRA VELHA"} ,{"lat": -20.5536189, "long": -48.570285, "name": "BARRETOS"} ,{"lat": -20.949552, "long": -48.47953649999999, "name": "BEBEDOURO"} ,{"lat": -16.9725565, "long": -48.9550267, "name": "BELA VISTA DE GOIAS"} ,{"lat": -22.7645391, "long": -43.3996264, "name": "BELFORD ROXO"} ,{"lat": -29.1667089, "long": -51.5169861, "name": "BENTO GONCALVES"} ,{"lat": -21.2915055, "long": -50.3436312, "name": "BIRIGUI"} ,{"lat": -15.9249222, "long": -48.8121491, "name": "CORUMBA DE GOIAS"} ,{"lat": -23.6026684, "long": -46.9194693, "name": "COTIA"} ,{"lat": -28.2793737, "long": -49.1575402, "name": "BRACO DO NORTE"} ,{"lat": -20.8467047, "long": -41.1202199, "name": "CACHOEIRO ITAPEMIRIM"} ,{"lat": -22.0132109, "long": -51.2362602, "name": "CAIABU"} ,{"lat": -23.3612198, "long": -46.7401869, "name": "CAIEIRAS"} ,{"lat": -22.6118831, "long": -46.05770709999999, "name": "CAMBUI"} ,{"lat": -7.222366699999999, "long": -35.8734667, "name": "CAMPINA GRANDE"} ,{"lat": -25.304882, "long": -49.0555691, "name": "CAMPINA GRANDE SUL"} ,{"lat": -20.99419, "long": -47.65155, "name": "BRODOSQUI"} ,{"lat": -21.7732702, "long": -50.4664897, "name": "ARCO-IRIS"} ,{"lat": -20.2877726, "long": -45.5396954, "name": "ARCOS"} ,{"lat": -25.6793029, "long": -49.53552250000001, "name": "CONTENDA"} ,{"lat": -22.4782628, "long": -47.4523359, "name": "CORDEIROPOLIS"} ,{"lat": -19.8279871, "long": -54.8313465, "name": "CORGUINHO"} ,{"lat": -20.6445174, "long": -50.3637524, "name": "GENERAL SALGADO"} ,{"lat": -16.5063728, "long": -49.4223375, "name": "GOIANIRA"} ,{"lat": -15.93397, "long": -50.1403832, "name": "GOIAS"} ,{"lat": -22.2102702, "long": -45.2630555, "name": "CRISTINA"} ,{"lat": -19.9719267, "long": -47.7757685, "name": "DELTA"} ,{"lat": -23.6818396, "long": -46.620967, "name": "DIADEMA"} ,{"lat": -26.1770819, "long": -50.3954885, "name": "CANOINHAS"} ,{"lat": -18.682836, "long": -49.57065679999999, "name": "CAPINOPOLIS"} ,{"lat": -6.5246827, "long": -39.491973, "name": "CARIUS"} ,{"lat": -7.336239, "long": -47.4638414, "name": "CAROLINA"} ,{"lat": -7.8460741, "long": -35.2517146, "name": "CARPINA"} ,{"lat": -24.7895729, "long": -50.0112458, "name": "CASTRO"} ,{"lat": -23.0384814, "long": -49.1659897, "name": "CERQUEIRA CESAR"} ,{"lat": -27.6111069, "long": -53.1677486, "name": "CERRO GRANDE"} ,{"lat": -23.2265217, "long": -47.9549095, "name": "CESARIO LANGE"} ,{"lat": -25.1466598, "long": -53.846644, "name": "CEU AZUL"} ,{"lat": -18.394909, "long": -52.6653684, "name": "CHAPADAO DO CEU"} ,{"lat": -12.5558272, "long": -60.9029749, "name": "CHUPINGUAIA"} ,{"lat": -20.7096088, "long": -48.5318251, "name": "COLINA"} ,{"lat": -25.2929784, "long": -49.22663439999999, "name": "COLOMBO"} ,{"lat": -22.838683, "long": -51.9730151, "name": "COLORADO"} ,{"lat": -8.2617601, "long": -49.269347, "name": "CONCEICAO ARAGUAIA"} ,{"lat": -19.6286625, "long": -43.9935608, "name": "CONFINS"} ,{"lat": -14.5587835, "long": -59.5725012, "name": "CONQUISTA D'OESTE"} ,{"lat": -23.385191, "long": -53.29428650000001, "name": "DOURADINA"} ,{"lat": -17.3355183, "long": -49.9283882, "name": "EDEIA"} ,{"lat": -13.8681234, "long": -49.0707188, "name": "ESTRELA DO NORTE"} ,{"lat": -24.0021722, "long": -51.3256188, "name": "FAXINAL"} ,{"lat": -15.5404411, "long": -47.3374297, "name": "FORMOSA"} ,{"lat": -26.0779448, "long": -53.05199, "name": "FRANCISCO BELTRAO"} ,{"lat": -23.2797384, "long": -46.7452277, "name": "FRANCISCO MORATO"} ,{"lat": -23.3233727, "long": -46.7294577, "name": "FRANCO DA ROCHA"} ,{"lat": -20.0263764, "long": -48.9359943, "name": "FRUTAL"} ,{"lat": -29.2581646, "long": -51.5289168, "name": "GARIBALDI"} ,{"lat": -26.9340955, "long": -48.9539069, "name": "GASPAR"} ,{"lat": -10.791056, "long": -49.6203878, "name": "LAGOA DA CONFUSAO"} ,{"lat": -18.8549317, "long": -41.95592329999999, "name": "GOVERNADOR VALADARES"} ,{"lat": -21.6230889, "long": -49.7970382, "name": "GUAICARA"} ,{"lat": -21.8901238, "long": -49.03141979999999, "name": "IACANGA"} ,{"lat": -21.7567077, "long": -48.8323618, "name": "IBITINGA"} ,{"lat": -22.51256, "long": -48.5539871, "name": "IGARACU DO TIETE"} ,{"lat": -20.0421785, "long": -47.7563994, "name": "IGARAPAVA"} ,{"lat": -28.3885365409849, "long": -53.918066835708, "name": "IJUI"} ,{"lat": -28.227627, "long": -48.6691286, "name": "IMBITUBA"} ,{"lat": -26.8997445, "long": -49.2358981, "name": "INDAIAL"} ,{"lat": -17.1391919, "long": -49.9866169, "name": "INDIARA"} ,{"lat": -17.722004, "long": -48.1585601, "name": "IPAMERI"} ,{"lat": -16.8301084, "long": -49.5349817, "name": "GUAPO"} ,{"lat": -22.9699006, "long": -51.6508909, "name": "GUARACI"} ,{"lat": -25.3907214, "long": -51.4628097, "name": "GUARAPUAVA"} ,{"lat": -23.9948444, "long": -46.25686779999999, "name": "GUARUJA"} ,{"lat": -27.1345877, "long": -52.78916049999999, "name": "GUATAMBU"} ,{"lat": -19.212147, "long": -49.7863021, "name": "GURINHATA"} ,{"lat": -22.3734081, "long": -48.3860575, "name": "DOIS CORREGOS"} ,{"lat": -28.9835011, "long": -51.8400958, "name": "DOIS LAJEADOS"} ,{"lat": -23.0888476, "long": -47.7872757, "name": "JUMIRIM"} ,{"lat": -27.8154629, "long": -50.326356, "name": "LAGES"} ,{"lat": -28.2092212, "long": -51.5256087, "name": "LAGOA VERMELHA"} ,{"lat": -22.5523468, "long": -55.1513801, "name": "LAGUNA CARAPA"} ,{"lat": -20.1532675, "long": -41.6228953, "name": "LAJINHA"} ,{"lat": -23.0510503, "long": -47.838004, "name": "LARANJAL PAULISTA"} ,{"lat": -19.3946651, "long": -40.0652641, "name": "LINHARES"} ,{"lat": -21.6732766, "long": -49.7471452, "name": "Lins"} ,{"lat": -22.7338724, "long": -45.1201112, "name": "LORENA"} ,{"lat": -21.7186744, "long": -51.0219868, "name": "LUCELIA"} ,{"lat": -9.6498487, "long": -35.7089492, "name": "MACEIO"} ,{"lat": -26.3396691, "long": -49.9061128, "name": "ITAIOPOLIS"} ,{"lat": -14.9521051, "long": -49.55079139999999, "name": "ITAPACI"} ,{"lat": -19.9033506, "long": -49.3660142, "name": "ITAPAGIPE"} ,{"lat": -21.0100062, "long": -40.8310577, "name": "ITAPEMIRIM"} ,{"lat": -23.5492651, "long": -46.9331962, "name": "ITAPEVI"} ,{"lat": -27.1698985, "long": -53.7108335, "name": "ITAPIRANGA"} ,{"lat": -18.7650105, "long": -51.3489854, "name": "ITARUMA"} ,{"lat": -19.7268901, "long": -50.1938402, "name": "ITURAMA"} ,{"lat": -20.3345205, "long": -47.7921348, "name": "ITUVERAVA"} ,{"lat": -16.6073704, "long": -50.7921205, "name": "IVOLANDIA"} ,{"lat": -8.157523, "long": -34.933295, "name": "JABOATAO GUARARAPES"} ,{"lat": -23.2987827, "long": -45.96625419999999, "name": "JACAREI"} ,{"lat": -20.1390703, "long": -54.4001217, "name": "JARAGUARI"} ,{"lat": -17.7405182, "long": -46.1741639, "name": "JOAO PINHEIRO"} ,{"lat": -23.5465581, "long": -47.1906632, "name": "MAIRINQUE"} ,{"lat": -23.3179561, "long": -46.58851749999999, "name": "MAIRIPORA"} ,{"lat": -14.4932239, "long": -46.1115725, "name": "MAMBAI"} ,{"lat": -23.3462407, "long": -52.0948587, "name": "MANDAGUACU"} ,{"lat": -24.5194226, "long": -51.6723322, "name": "MANOEL RIBAS"} ,{"lat": -22.1072362, "long": -51.96215429999999, "name": "MARABA PAULISTA"} ,{"lat": -3.8674127, "long": -38.6261113, "name": "MARACANAU"} ,{"lat": -26.7650048, "long": -53.1745281, "name": "MARAVILHA"} ,{"lat": -24.5562279, "long": -54.0627541, "name": "M.AL CANDIDO RONDON"} ,{"lat": -23.4847922, "long": -51.7932899, "name": "MARIALVA"} ,{"lat": -20.4393664, "long": -50.8258543, "name": "MARINOPOLIS"} ,{"lat": -23.668163, "long": -46.46170859999999, "name": "MAUA"} ,{"lat": -20.3557618, "long": -50.1753279, "name": "MERIDIANO"} ,{"lat": -21.1331045, "long": -51.1023381, "name": "MIRANDOPOLIS"} ,{"lat": -19.8392083, "long": -45.41311229999999, "name": "MOEMA"} ,{"lat": -16.5441246, "long": -50.73896389999999, "name": "MOIPORA"} ,{"lat": -22.455799, "long": -47.0193913, "name": "MOJI MIRIM"} ,{"lat": -27.1019098, "long": -53.3990865, "name": "MONDAI"} ,{"lat": -22.69004, "long": -46.6826067, "name": "MONTE ALEGRE DO SUL"} ,{"lat": -22.9455303, "long": -47.3126323, "name": "MONTE MOR"} ,{"lat": -17.734945, "long": -49.12085159999999, "name": "MORRINHOS"} ,{"lat": -13.7733778, "long": -50.28182779999999, "name": "MUNDO NOVO"} ,{"lat": -5.7792569, "long": -35.200916, "name": "NATAL"} ,{"lat": -29.378234, "long": -51.1115062, "name": "NOVA PETROPOLIS"} ,{"lat": -29.8507647, "long": -51.27410889999999, "name": "NOVA SANTA RITA"} ,{"lat": -27.2836403, "long": -48.9167751, "name": "NOVA TRENTO"} ,{"lat": -28.6342746, "long": -49.506032, "name": "NOVA VENEZA"} ,{"lat": -11.3897083, "long": -57.3157979, "name": "NOVO HORIZONTE NORTE"} ,{"lat": -4.334255, "long": -49.7988349, "name": "NOVO REPARTIMENTO"} ,{"lat": -6.751891499999999, "long": -51.0774187, "name": "OURILANDIA DO NORTE"} ,{"lat": -21.0161216, "long": -49.4991038, "name": "NOVA ALIANCA"} ,{"lat": -28.6790189, "long": -52.1664544, "name": "NOVA ALVORADA"} ,{"lat": -15.0210312, "long": -49.8957464, "name": "NOVA AMERICA"} ,{"lat": -23.1891863, "long": -52.2004893, "name": "NOVA ESPERANCA"} ,{"lat": -22.2887261, "long": -42.5340796, "name": "NOVA FRIBURGO"} ,{"lat": -15.1454005, "long": -49.57416019999999, "name": "NOVA GLORIA"} ,{"lat": -21.0897494, "long": -48.660702, "name": "PIRANGI"} ,{"lat": -17.3488693, "long": -44.9468088, "name": "PIRAPORA"} ,{"lat": -21.9964647, "long": -47.4261942, "name": "PIRASSUNUNGA"} ,{"lat": -24.4028403, "long": -54.0412273, "name": "PLANALTO"} ,{"lat": -21.7853787, "long": -46.5619303, "name": "POCOS DE CALDAS"} ,{"lat": -20.7849721, "long": -49.8149946, "name": "POLONI"} ,{"lat": -22.1007393, "long": -50.1858252, "name": "POMPEIA"} ,{"lat": -29.7020325, "long": -51.24340549999999, "name": "PORTAO"} ,{"lat": -3.8885327, "long": -42.7001993, "name": "PORTO"} ,{"lat": -11.5334098, "long": -57.4137279, "name": "PORTO DOS GAUCHOS"} ,{"lat": -24.0088727, "long": -46.4125034, "name": "PRAIA GRANDE"} ,{"lat": -21.8737026, "long": -51.8452266, "name": "PRESIDENTE VENCESLAU"} ,{"lat": -17.2501202, "long": -49.2444534, "name": "PROFESSOR JAMIL"} ,{"lat": -23.4554707, "long": -52.0423373, "name": "PAICANDU"} ,{"lat": -20.3905159, "long": -49.4313133, "name": "PALESTINA"} ,{"lat": -26.4803234, "long": -51.9908764, "name": "PALMAS"} ,{"lat": -27.9001784, "long": -53.3140353, "name": "PALMEIRA DAS MISSOES"} ,{"lat": -16.8078452, "long": -49.9198367, "name": "PALMEIRAS DE GOIAS"} ,{"lat": -17.3262764, "long": -48.4264733, "name": "PALMELO"} ,{"lat": -22.787936, "long": -50.2199938, "name": "PALMITAL"} ,{"lat": -22.6083065, "long": -43.7112547, "name": "PARACAMBI"} ,{"lat": -22.1588749, "long": -43.29047389999999, "name": "PARAIBA DO SUL"} ,{"lat": -18.9145149, "long": -50.6543925, "name": "PARANAIGUARA"} ,{"lat": -16.9480783, "long": -50.44827, "name": "PARAUNA"} ,{"lat": -28.2580547, "long": -52.4096248, "name": "PASSO FUNDO"} ,{"lat": -20.6456819, "long": -47.2753293, "name": "PATROCINIO PAULISTA"} ,{"lat": -20.6436652, "long": -51.1110523, "name": "PEREIRA BARRETO"} ,{"lat": -16.1057363, "long": -49.33425339999999, "name": "PETROLINA DE GOIAS"} ,{"lat": -21.592614, "long": -50.6008152, "name": "PIACATU"} ,{"lat": -23.8078669, "long": -47.7232369, "name": "PILAR DO SUL"} ,{"lat": -17.3050562, "long": -49.0205285, "name": "PIRACANJUBA"} ,{"lat": -22.6053393, "long": -46.914966, "name": "SANTO ANTONIO POSSE"} ,{"lat": -8.0578381, "long": -34.8828969, "name": "RECIFE"} ,{"lat": -11.4940941, "long": -39.4256836, "name": "RETIROLANDIA"} ,{"lat": -22.0677812, "long": -48.177368, "name": "RIBEIRAO BONITO"} ,{"lat": -9.975377, "long": -67.8248977, "name": "RIO BRANCO"} ,{"lat": -22.4149023, "long": -47.5651394, "name": "RIO CLARO"} ,{"lat": -7.314432600000001, "long": -50.0462317, "name": "RIO MARIA"} ,{"lat": -19.9533323, "long": -54.88828849999999, "name": "ROCHEDO"} ,{"lat": -26.9243784, "long": -49.3688265, "name": "RODEIO"} ,{"lat": -23.3105968, "long": -51.366412, "name": "ROLANDIA"} ,{"lat": -19.8845263, "long": -43.826722, "name": "SABARA"} ,{"lat": -23.3159883, "long": -51.5554904, "name": "SABAUDIA"} ,{"lat": -21.6272005, "long": -50.8618403, "name": "SALMOURAO"} ,{"lat": -23.2000805, "long": -47.293538, "name": "SALTO"} ,{"lat": -25.7767652429306, "long": -53.314935101821, "name": "SALTO DO LONTRA"} ,{"lat": -27.950568, "long": -51.8148609, "name": "SANANDUVA"} ,{"lat": -16.567951, "long": -49.692001, "name": "SANTA BARBARA GOIAS"} ,{"lat": -28.3672078, "long": -53.25172999999999, "name": "SANTA BARBARA DO SUL"} ,{"lat": -22.7557422, "long": -47.4147585, "name": "STA BARBARA D'OESTE"} ,{"lat": -11.9738732, "long": -55.2787719, "name": "SANTA CARMEM"} ,{"lat": -22.8993818, "long": -49.6251185, "name": "SANTA CRUZ RIO PARDO"} ,{"lat": -21.3499887, "long": -51.7568332, "name": "SANTA MERCEDES"} ,{"lat": -21.3020684, "long": -52.8338261, "name": "SANTA RITA DO PARDO"} ,{"lat": -21.4909206, "long": -47.37045, "name": "SANTA ROSA VITERBO"} ,{"lat": -23.9678823, "long": -46.3288865, "name": "SANTOS"} ,{"lat": -26.2500365, "long": -49.3835566, "name": "SAO BENTO DO SUL"} ,{"lat": -23.6898429, "long": -46.5648481, "name": "SAO BERNARDO CAMPO"} ,{"lat": -27.9001121, "long": -48.9301444, "name": "SAO BONIFACIO"} ,{"lat": -11.0122362, "long": -37.2059339, "name": "SAO CRISTOVAO"} ,{"lat": -29.962127, "long": -51.7250108, "name": "SAO JERONIMO"} ,{"lat": -21.9712313, "long": -46.7947989, "name": "SAO JOAO BOA VISTA"} ,{"lat": -25.4452671, "long": -54.4013186, "name": "STA TEREZINHA ITAIPU"} ,{"lat": -18.8473444, "long": -50.1238329, "name": "SANTA VITORIA"} ,{"lat": -5.184291900000001, "long": -37.3466763, "name": "SANTO ANTONIO"} ,{"lat": -17.5589525, "long": -50.6350038, "name": "SANTO ANTONIO BARRA"} ,{"lat": -2.5863467, "long": -51.9491502, "name": "SEN JOSE PORFIRIO"} ,{"lat": -25.3803905, "long": -54.0523344, "name": "SERRANOPOLIS IGUACU"} ,{"lat": -20.9306687, "long": -54.9697212, "name": "SIDROLANDIA"} ,{"lat": -28.0648729, "long": -52.0061737, "name": "TAPEJARA"} ,{"lat": -12.7428031, "long": -56.5125283, "name": "TAPURAH"} ,{"lat": -23.3492186, "long": -47.8465761, "name": "TATUI"} ,{"lat": -17.5400307, "long": -39.7421813, "name": "TEIXEIRA DE FREITAS"} ,{"lat": -22.5314368, "long": -52.1733719, "name": "TEODORO SAMPAIO"} ,{"lat": -22.7907664, "long": -43.3699364, "name": "SAO JOAO DE MERITI"} ,{"lat": -26.621774, "long": -48.768753, "name": "SAO JOAO DO ITAPERIU"} ,{"lat": -7.4686612, "long": -37.2746574, "name": "SAO JOSE DO EGITO"} ,{"lat": -27.7255376, "long": -54.12798549999999, "name": "SAO JOSE DO INHACORA"} ,{"lat": -16.521513, "long": -50.3730843, "name": "S. LUIS MONTES BELOS"} ,{"lat": -29.5904737, "long": -51.3738524, "name": "SAO SEBASTIAO DO CAI"} ,{"lat": -29.6353852, "long": -51.0069543, "name": "SAPIRANGA"} ,{"lat": -23.4445928, "long": -51.87650439999999, "name": "SARANDI"} ,{"lat": -27.946449, "long": -52.9164069, "name": "SARANDI"} ,{"lat": -26.4201724, "long": -49.0711631, "name": "SCHROEDER"} ,{"lat": -16.7088537, "long": -49.091845, "name": "SENADOR CANEDO"} ,{"lat": -26.9560607, "long": -52.53600729999999, "name": "XAXIM"} ,{"lat": -17.9955855, "long": -42.3922222, "name": "AGUA BOA"} ,{"lat": -26.9989417, "long": -51.5533122, "name": "AGUA DOCE"} ,{"lat": -13.9240574, "long": -49.2966837, "name": "AMARALINA"} ,{"lat": -16.909152, "long": -49.44809919999999, "name": "ARAGOIANIA"} ,{"lat": -27.3134861, "long": -49.6366014, "name": "AURORA"} ,{"lat": -23.2765696, "long": -55.5302717, "name": "CORONEL SAPUCAIA"} ,{"lat": -20.8777608, "long": -48.8067919, "name": "CAJOBI"} ,{"lat": -12.7870345, "long": -38.403295, "name": "SIMOES FILHO"} ,{"lat": -21.692578, "long": -45.2515461, "name": "TRES CORACOES"} ,{"lat": -24.5429905, "long": -52.989492, "name": "UBIRATA"} ,{"lat": -11.5311919, "long": -54.3621118, "name": "UNIAO DO SUL"} ,{"lat": -14.5246488, "long": -49.1468996, "name": "URUACU"} ,{"lat": -10.433045, "long": -62.13129819999999, "name": "VALE DO PARAISO"} ,{"lat": -22.9702933, "long": -46.9978148, "name": "VALINHOS"} ,{"lat": -27.0059451, "long": -51.7407397, "name": "VARGEM BONITA"} ,{"lat": -23.5998291, "long": -47.0224881, "name": "VARG GDE PAULISTA"} ,{"lat": -29.6148016, "long": -52.1936768, "name": "VENANCIO AIRES"} ,{"lat": -25.0581631, "long": -53.8776057, "name": "VERA CRUZ DO OESTE"} ,{"lat": -28.9427186, "long": -51.5507365, "name": "VERANOPOLIS"} ,{"lat": -19.688806, "long": -43.9243123, "name": "VESPASIANO"} ,{"lat": -20.7548659, "long": -42.8785788, "name": "VICOSA"} ,{"lat": -27.0052075, "long": -51.15439500000001, "name": "VIDEIRA"} ,{"lat": -28.8478808, "long": -51.8901486, "name": "GUAPORE"} ,{"lat": -16.2514778, "long": -47.91775579999999, "name": "LUZIANIA"} ,{"lat": -22.3836705, "long": -41.7827461, "name": "MACAE"} ,{"lat": -20.8062432, "long": -49.9636465, "name": "MACAUBAL"} ,{"lat": -22.5837191, "long": -47.52341390000001, "name": "IRACEMAPOLIS"} ,{"lat": -23.4217742, "long": -49.0924714, "name": "ITAI"} ,{"lat": -5.8327845, "long": -43.8356777, "name": "BURITI BRAVO"} ,{"lat": -9.9061054, "long": -63.03304129999999, "name": "ARIQUEMES"} ,{"lat": -32.2331559, "long": -53.0866944, "name": "ARROIO GRANDE"} ,{"lat": -23.8916151, "long": -46.4244141, "name": "CUBATAO"} ,{"lat": -15.6096313, "long": -57.91939170000001, "name": "CURVELANDIA"} ,{"lat": -22.7466667, "long": -50.3880476, "name": "CANDIDO MOTA"} ,{"lat": -27.2621094, "long": -48.7662697, "name": "CANELINHA"} ,{"lat": -16.3239833, "long": -43.7154461, "name": "CAPITAO ENEAS"} ,{"lat": -20.2643105, "long": -40.42030219999999, "name": "CARIACICA"} ,{"lat": -22.4836725, "long": -42.20154309999999, "name": "CASIMIRO DE ABREU"} ,{"lat": -18.7943329, "long": -52.6191926, "name": "CHAPADAO DO SUL"} ,{"lat": -23.6628906, "long": -52.611935, "name": "CIANORTE"} ,{"lat": -30.1115332, "long": -51.6307505, "name": "ELDORADO DO SUL"} ,{"lat": -23.8302097, "long": -46.81404209999999, "name": "EMBU-GUACU"} ,{"lat": -22.5571711, "long": -52.5896735, "name": "EUCLIDES CUNHA PTA"} ,{"lat": -25.6628466, "long": -49.30778660000001, "name": "FAZENDA RIO GRANDE"} ,{"lat": -17.5229691, "long": -49.44939170000001, "name": "PONTALINA"} ,{"lat": -27.4844261, "long": -50.3779723, "name": "PONTE ALTA"} ,{"lat": -20.4152317, "long": -50.76315719999999, "name": "PALMEIRA D'OESTE"} ,{"lat": -19.8600145, "long": -44.6075318, "name": "PARA DE MINAS"} ,{"lat": -23.2828929, "long": -52.6059223, "name": "PARAISO DO NORTE"} ,{"lat": -26.2297202, "long": -52.6711356, "name": "PATO BRANCO"} ,{"lat": -7.832478999999999, "long": -50.039918, "name": "PAU D ARCO"} ,{"lat": -11.6723638, "long": -61.1984811, "name": "PIMENTA BUENO"} ,{"lat": -15.0746834, "long": -58.45904179999999, "name": "RESERVA DO CABACAL"} ,{"lat": -15.2487568, "long": -58.12639910000001, "name": "RIO BRANCO"} ,{"lat": -21.8047006, "long": -54.5432691, "name": "RIO BRILHANTE"} ,{"lat": -23.4138708, "long": -52.7660602, "name": "RONDON"} ,{"lat": -23.4079699, "long": -45.8874147, "name": "SANTA BRANCA"} ,{"lat": -26.9655922, "long": -50.4178973, "name": "SANTA CECILIA"} ,{"lat": -29.4752356, "long": -52.0847762, "name": "SANTA CLARA DO SUL"} ,{"lat": -21.5950536, "long": -48.8163705, "name": "ITAPOLIS"} ,{"lat": -15.5544752, "long": -49.94172770000001, "name": "ITAPURANGA"} ,{"lat": -17.0485961, "long": -50.1457778, "name": "JANDAIA"} ,{"lat": -20.9069644, "long": -48.6391716, "name": "MONTE AZUL PAULISTA"} ,{"lat": -18.7307117, "long": -47.4916674, "name": "MONTE CARMELO"} ,{"lat": -26.8986436, "long": -52.9070793, "name": "NOVA ERECHIM"} ,{"lat": -26.1164276, "long": -49.8091065, "name": "MAFRA"} ,{"lat": -20.4742488, "long": -45.9619861, "name": "PIUMHI"} ,{"lat": -12.9730401, "long": -38.502304, "name": "SALVADOR"} ,{"lat": -18.9055808, "long": -40.0759445, "name": "JAGUARE"} ,{"lat": -23.5453209, "long": -46.311625, "name": "SUZANO"} ,{"lat": -19.9793912, "long": -50.1395026, "name": "MIRA ESTRELA"} ,{"lat": -23.3058194, "long": -47.1367011, "name": "CABREUVA"} ,{"lat": -24.2821555, "long": -53.8345983, "name": "PALOTINA"} ,{"lat": -22.6961391, "long": -51.7974221, "name": "SANTO INACIO"} ,{"lat": -27.7032916, "long": -52.42195, "name": "PAULO BENTO"} ,{"lat": -26.892643, "long": -53.1715625, "name": "CUNHA PORA"} ,{"lat": -23.4430047, "long": -46.9226637, "name": "SANTANA DE PARNAIBA"} ,{"lat": -6.660709199999999, "long": -37.3999369, "name": "SERRA NEGRA DO NORTE"} ,{"lat": -18.3071759, "long": -51.9591096, "name": "SERRANOPOLIS"} ,{"lat": -7.670398, "long": -36.879064, "name": "SUME"} ,{"lat": -23.6364204, "long": -55.0146493, "name": "TACURU"} ,{"lat": -23.0204559, "long": -45.5563555, "name": "TAUBATE"} ,{"lat": -12.2954417, "long": -38.6350904, "name": "TEODORO SAMPAIO"} ,{"lat": -10.525278, "long": -55.220278, "name": "TERRA NOVA DO NORTE"} ,{"lat": -22.5487399, "long": -47.9100329, "name": "SAO PEDRO"} ,{"lat": -21.3699248, "long": -45.5113164, "name": "TRES PONTAS"} ,{"lat": -23.7661064, "long": -53.3206105, "name": "UMUARAMA"} ,{"lat": -12.0821043, "long": -41.0971114, "name": "UTINGA"} ,{"lat": -12.6818712, "long": -56.921099, "name": "VILA BELA SS. TRIND."} ,{"lat": -21.4803962, "long": -56.1494143, "name": "JARDIM"} ,{"lat": -11.9077667, "long": -61.7782068, "name": "SANTA LUZIA D'OESTE"} ,{"lat": -26.1581027, "long": -52.97132449999999, "name": "RENASCENCA"} ,{"lat": -28.3690399, "long": -54.2691157, "name": "ENTRE-IJUIS"} ,{"lat": -20.4221493, "long": -50.0893926, "name": "VALENTIM GENTIL"} ,{"lat": -21.3544405, "long": -51.856666, "name": "PANORAMA"} ,{"lat": -22.0804966, "long": -54.793886, "name": "ITAPORA"} ,{"lat": -22.1495075, "long": -51.1721033, "name": "MARTINOPOLIS"} ,{"lat": -19.9433029, "long": -44.3413836, "name": "JUATUBA"} ,{"lat": -21.6110027, "long": -55.168269, "name": "MARACAJU"} ,{"lat": -23.5280281, "long": -46.9027629, "name": "JANDIRA"} ,{"lat": -23.9607656, "long": -46.3960797, "name": "SAO VICENTE"} ,{"lat": -16.7286406, "long": -43.8582139, "name": "MONTES CLAROS"} ,{"lat": -2.5391099, "long": -44.28290459999999, "name": "SAO LUIS"}]
+[
+ {"lat": -16.470162, "long": -54.633587, "name": "RONDONOPOLIS"}
+,{"lat": -15.955969, "long": -54.975184, "name": "JACIARA"}
+,{"lat": -15.888711, "long": -52.260329, "name": "BARRA DO GARCAS"}
+,{"lat": -10.657290, "long": -51.570309, "name": "CONFRESA"}
+,{"lat": -16.051429, "long": -54.885816, "name": "JUSCIMEIRA"}
+,{"lat": -16.621352, "long": -54.481440, "name": "PEDRA PRETA"}
+,{"lat": -12.932048, "long": -51.833363, "name": "RIBEIRAO CASCALHEIRA"}
+,{"lat": -15.810334, "long": -54.922785, "name": "DOM AQUINO"}
+,{"lat": -15.841448, "long": -54.388759, "name": "POXOREO"}
+,{"lat": -16.466330, "long": -54.256246, "name": "SAO JOSE DO POVO"}
+,{"lat": -18.501746, "long": -54.751484, "name": "COXIM"}
+,{"lat": -15.569989, "long": -56.073252, "name": "CUIABA"}
+,{"lat": -16.346419, "long": -53.757970, "name": "GUIRATINGA"}
+,{"lat": -15.902471, "long": -52.258511, "name": "PONTAL DO ARAGUAIA"}
+,{"lat": -17.205881, "long": -54.146888, "name": "ITIQUIRA"}
+,{"lat": -10.014078, "long": -51.119048, "name": "VILA RICA"}
+,{"lat": -15.709886, "long": -52.757846, "name": "GENERAL CARNEIRO"}
+,{"lat": -15.721489, "long": -51.837152, "name": "ARAGUAIANA"}
+,{"lat": -15.897768, "long": -52.246854, "name": "ARAGARCAS"}
+,{"lat": -15.818135, "long": -54.400732, "name": "POXOREU"}
+,{"lat": -16.206709, "long": -52.173261, "name": "BOM JARDIM DE GOIAS"}
+,{"lat": -16.002708, "long": -54.918993, "name": "SAO PEDRO DA CIPA"}
+,{"lat": -14.623784, "long": -57.491299, "name": "TANGARA DA SERRA"}
+,{"lat": -11.048589, "long": -51.823031, "name": "CANABRAVA DO NORTE"}
+,{"lat": -15.862842, "long": -56.079247, "name": "STO ANTONIO LEVERGER"}
+,{"lat": -16.201033, "long": -52.557568, "name": "TORIXOREU"}
+,{"lat": -15.550791, "long": -55.167757, "name": "CAMPO VERDE"}
+,{"lat": -14.913269, "long": -53.018691, "name": "NOVO SAO JOAQUIM"}
+,{"lat": -14.664401, "long": -52.358477, "name": "NOVA XAVANTINA"}
+,{"lat": -16.946722, "long": -53.528454, "name": "ALTO GARCAS"}
+,{"lat": -16.081371, "long": -53.559510, "name": "TESOURO"}
+,{"lat": -18.100270, "long": -54.554406, "name": "PEDRO GOMES"}
+,{"lat": -10.88536, "long": -51.638892, "name": "PORTO ALEGRE NORTE"}
+,{"lat": -15.552293, "long": -54.300053, "name": "PRIMAVERA DO LESTE"}
+,{"lat": -10.470790, "long": -50.514432, "name": "SANTA TEREZINHA"}
+,{"lat": -18.325995, "long": -53.704708, "name": "ALCINOPOLIS"}
+,{"lat": -23.550519, "long": -46.633309, "name": "SAO PAULO"}
+,{"lat": -14.512319, "long": -52.885104, "name": "CAMPINAPOLIS"}
+,{"lat": -14.391072, "long": -51.004691, "name": "COCALINHO"}
+,{"lat": -10.798607, "long": -52.749051, "name": "SAO JOSE DO XINGU"}
+,{"lat": -14.049086, "long": -52.158915, "name": "AGUA BOA"}
+,{"lat": -17.570218, "long": -54.755602, "name": "SONORA"}
+,{"lat": -11.617526, "long": -50.666262, "name": "SAO FELIX ARAGUAIA"}
+,{"lat": -15.658064, "long": -56.144663, "name": "VARZEA GRANDE"}
+,{"lat": -14.426879, "long": -54.052896, "name": "PARANATINGA"}
+,{"lat": -14.933102, "long": -54.973905, "name": "NOVA BRASILANDIA"}
+,{"lat": -16.196956, "long": -52.546447, "name": "BALIZA"}
+,{"lat": -17.315770, "long": -53.218604, "name": "ALTO ARAGUAIA"}
+,{"lat": -12.592299, "long": -52.209891, "name": "QUERENCIA"}
+,{"lat": -13.556473, "long": -52.269112, "name": "CANARANA"}
+,{"lat": -16.266470, "long": -56.626598, "name": "POCONE"}
+,{"lat": -16.686891, "long": -49.264794, "name": "GOIANIA"}
+,{"lat": -18.914362, "long": -54.853171, "name": "RIO VERDE DE MATO GR"}
+,{"lat": -12.178038, "long": -51.506483, "name": "BOM JESUS ARAGUAIA"}
+,{"lat": -20.469710, "long": -54.620121, "name": "CAMPO GRANDE"}
+,{"lat": -10.155315, "long": -52.391911, "name": "SANTA CRUZ DO XINGU"}
+,{"lat": -16.486073, "long": -52.692912, "name": "RIBEIRAOZINHO"}
+,{"lat": -14.826427, "long": -56.428293, "name": "ROSARIO OESTE"}
+,{"lat": -15,841448, "long": -54,388759, "name": "POXOREU"}
+,{"lat": -11.222275, "long": -50.671898, "name": "LUCIARA"}
+,{"lat": -15.464775, "long": -55.750349, "name": "CHAPADA GUIMARAES"}
+,{"lat": -13.244710, "long": -53.081383, "name": "GAUCHA DO NORTE"}
+,{"lat": -16.758851, "long": -52.837339, "name": "PONTE BRANCA"}
+,{"lat": -16.076844, "long": -57.682304, "name": "CACERES"}
+,{"lat": -16.196747, "long": -55.966321, "name": "BARAO DE MELGACO"}
+,{"lat": -9.4636687, "long": -59.222974, "name": "COLNIZA"}
+,{"lat": -17.144507, "long": -47.465736, "name": "MONTES CLAROS GOIAS"}
+,{"lat": -12.294693, "long": -50.969172, "name": "NOVO SANTO ANTONIO"}
+,{"lat": -9.8671496, "long": -56.087187, "name": "ALTA FLORESTA"}
+,{"lat": -6.6413689, "long": -51.982534, "name": "SAO FELIX DO XINGU"}
+,{"lat": -16.719264, "long": -52.319331, "name": "DOVERLANDIA"}
+,{"lat": -14.495651, "long": -57.00306, "name": "SANTO AFONSO"}
+,{"lat": -14.652203, "long": -54.782340, "name": "PLANALTO DA SERRA"}
+,{"lat": -18.914607, "long": -48.275380, "name": "UBERLANDIA"}
+,{"lat": -25.428954, "long": -49.267137, "name": "CURITIBA"}
+,{"lat": -19.008168, "long": -57.651550, "name": "CORUMBA"}
+,{"lat": -9.983333, "long": -59.3, "name": "ARIPUANA"}
+,{"lat": -14.404098, "long": -56.437093, "name": "DIAMANTINO"}
+,{"lat": -15.070587, "long": -57.188284, "name": "BARRA DO BUGRES"}
+,{"lat": -11.673620, "long": -51.388780, "name": "ALTO BOA VISTA"}
+,{"lat": -12.092301, "long": -51.402024, "name": "SERRA NOVA DOURADA"}
+,{"lat": -15.794228, "long": -47.882165, "name": "BRASILIA"}
+,{"lat": -15.772456, "long": -56.343738, "name": "NSA SRA LIVRAMENTO"}
+,{"lat": -14.718553, "long": -56.335475, "name": "NOBRES"}
+,{"lat": -16.426252, "long": -51.823938, "name": "PIRANHAS"}
+,{"lat": -15.194454, "long": -56.363721, "name": "ACORIZAL"}
+,{"lat": -18.681479, "long": -53.643497, "name": "FIGUEIRAO"}
+,{"lat": -11.860845, "long": -55.509545, "name": "SINOP"}
+,{"lat": -14.364864, "long": -56.972274, "name": "NOVA MARILANDIA"}
+,{"lat": -23.454249, "long": -46.533792, "name": "GUARULHOS"}
+,{"lat": -13.837813, "long": -56.074806, "name": "NOVA MUTUM"}
+,{"lat": -19.916681, "long": -43.934493, "name": "BELO HORIZONTE"}
+,{"lat": -13.990028, "long": -51.799343, "name": "NOVA NAZARE"}
+,{"lat": -14.779192, "long": -57.280683, "name": "NOVA OLIMPIA"}
+,{"lat": -15.556887, "long": -54.288039, "name": "SANTO ANTONIO LESTE"}
+,{"lat": -19.387293, "long": -54.593046, "name": "SAO GABRIEL DO OESTE"}
+,{"lat": -16.820257, "long": -49.247304, "name": "APARECIDA DE GOIANIA"}
+,{"lat": -15.874726, "long": -50.864053, "name": "JUSSARA"}
+,{"lat": -12.542945, "long": -55.721536, "name": "SORRISO"}
+,{"lat": -23.030672, "long": -46.983759, "name": "VINHEDO"}
+,{"lat": -30.034647, "long": -51.217658, "name": "PORTO ALEGRE"}
+,{"lat": -23.511369, "long": -46.872941, "name": "BARUERI"}
+,{"lat": -16.857595, "long": -53.033692, "name": "ARAGUAINHA"}
+,{"lat": -13.273482, "long": -50.16385, "name": "SAO MIGUEL ARAGUAIA"}
+,{"lat": -19.747366, "long": -47.939153, "name": "UBERABA"}
+,{"lat": -22.909938, "long": -47.062633, "name": "CAMPINAS"}
+,{"lat": -21.170400, "long": -47.810323, "name": "RIBEIRAO PRETO"}
+,{"lat": -17.822080, "long": -53.280303, "name": "ALTO TAQUARI"}
+,{"lat": -22.906846, "long": -43.172896, "name": "RIO DE JANEIRO"}
+,{"lat": -20.121522, "long": -40.307789, "name": "SERRA"}
+,{"lat": -16.954325, "long": -51.809544, "name": "CAIAPONIA"}
+,{"lat": -26.304408, "long": -48.846383, "name": "JOINVILLE"}
+,{"lat": -23.304452, "long": -51.169582, "name": "LONDRINA"}
+,{"lat": -13.547990, "long": -58.820385, "name": "SAPEZAL"}
+,{"lat": -15.235473, "long": -56.492189, "name": "JANGADA"}
+,{"lat": -22.121126, "long": -51.393006, "name": "PRESIDENTE PRUDENTE"}
+,{"lat": -15.676705, "long": -58.092937, "name": "MIRASSOL D'OESTE"}
+,{"lat": -16.328546, "long": -48.953402, "name": "ANAPOLIS"}
+,{"lat": -25.099424, "long": -50.158322, "name": "PONTA GROSSA"}
+,{"lat": -22.008708, "long": -47.890926, "name": "SAO CARLOS"}
+,{"lat": -23.420999, "long": -51.933055, "name": "MARINGA"}
+,{"lat": -15.470652, "long": -58.345705, "name": "ARAPUTANGA"}
+,{"lat": -22.223561, "long": -54.812548, "name": "DOURADOS"}
+,{"lat": -11.253522, "long": -57.508230, "name": "JUARA"}
+,{"lat": -11.422852, "long": -58.757177, "name": "JUINA"}
+,{"lat": -12.125493, "long": -58.006757, "name": "BRASNORTE"}
+,{"lat": -14.454447, "long": -56.795012, "name": "NORTELANDIA"}
+,{"lat": -9.3366227, "long": -50.341385, "name": "SANTANA DO ARAGUAIA"}
+,{"lat": -15.323945, "long": -57.220904, "name": "PORTO ESTRELA"}
+,{"lat": -9.6720113, "long": -56.473699, "name": "PARANAITA"}
+,{"lat": -22.734286, "long": -47.648064, "name": "PIRACICABA"}
+,{"lat": -15.233227, "long": -59.328245, "name": "PONTES E LACERDA"}
+,{"lat": -19.535125, "long": -54.043556, "name": "CAMAPUA"}
+,{"lat": -26.910596, "long": -48.670951, "name": "ITAJAI"}
+,{"lat": -9.8498004, "long": -57.814175, "name": "NOVA BANDEIRANTES"}
+,{"lat": -29.163403, "long": -51.179668, "name": "CAXIAS DO SUL"}
+,{"lat": -20.281023, "long": -50.247580, "name": "FERNANDOPOLIS"}
+,{"lat": -25.531835, "long": -49.203572, "name": "SAO JOSE DOS PINHAIS"}
+,{"lat": -21.602989, "long": -48.364422, "name": "MATAO"}
+,{"lat": -20.811761, "long": -49.376227, "name": "SAO JOSE RIO PRETO"}
+,{"lat": -9.9501051, "long": -54.914702, "name": "GUARANTA DO NORTE"}
+,{"lat": -19.109738, "long": -51.736543, "name": "CASSILANDIA"}
+,{"lat": -14.732823, "long": -57.058761, "name": "DENISE"}
+,{"lat": -9.9797352, "long": -57.467347, "name": "NOVA MONTE VERDE"}
+,{"lat": -5.1841285, "long": -37.347780, "name": "MOSSORO"}
+,{"lat": -29.754994, "long": -51.150283, "name": "SAO LEOPOLDO"}
+,{"lat": -15.317639, "long": -58.003362, "name": "LAMBARI D'OESTE"}
+,{"lat": -17.562441, "long": -52.548920, "name": "MINEIROS"}
+,{"lat": -13.659254, "long": -57.892990, "name": "CAMPO NOVO PARECIS"}
+,{"lat": -16.384171, "long": -51.556744, "name": "ARENOPOLIS"}
+,{"lat": -10.804089, "long": -55.464230, "name": "COLIDER"}
+,{"lat": -25.586431, "long": -49.405225, "name": "ARAUCARIA"}
+,{"lat": -9.9022872, "long": -58.568388, "name": "COTRIGUACU"}
+,{"lat": -7.8113771, "long": -50.767637, "name": "CUMARU DO NORTE"}
+,{"lat": -10.244691, "long": -54.988721, "name": "PEIXOTO DE AZEVEDO"}
+,{"lat": -15.857453, "long": -58.462435, "name": "PORTO ESPERIDIAO"}
+,{"lat": -9.5671530, "long": -57.395239, "name": "APIACAS"}
+,{"lat": -13.070464, "long": -55.921770, "name": "LUCAS DO RIO VERDE"}
+,{"lat": -17.879604, "long": -51.720673, "name": "JATAI"}
+,{"lat": -13.033827, "long": -55.273213, "name": "NOVA UBIRATA"}
+,{"lat": -19.916150, "long": -44.080876, "name": "CONTAGEM"}
+,{"lat": -15.130771, "long": -58.132227, "name": "SALTO DO CEU"}
+,{"lat": -13.031065, "long": -57.091894, "name": "NOVA MARINGA"}
+,{"lat": -13.721472, "long": -59.260354, "name": "CAMPOS DE JULIO"}
+,{"lat": -4.98107, "long": -37.162412, "name": "GROSSOS"}
+,{"lat": -22.566535, "long": -47.397436, "name": "LIMEIRA"}
+,{"lat": -15.243200, "long": -51.160665, "name": "BRITANIA"}
+,{"lat": -14.447584, "long": -56.844221, "name": "ARENAPOLIS"}
+,{"lat": -22.227077, "long": -45.939371, "name": "POUSO ALEGRE"}
+,{"lat": -20.444991, "long": -53.759311, "name": "RIBAS DO RIO PARDO"}
+,{"lat": -17.327356, "long": -53.201715, "name": "SANTA RITA ARAGUAIA"}
+,{"lat": -22.820902, "long": -47.273272, "name": "SUMARE"}
+,{"lat": -11.315287, "long": -56.820032, "name": "TABAPORA"}
+,{"lat": -23.484945, "long": -46.349482, "name": "ITAQUAQUECETUBA"}
+,{"lat": -18.974573, "long": -49.460088, "name": "ITUIUTABA"}
+,{"lat": -10.878141, "long": -61.932672, "name": "JI-PARANA"}
+,{"lat": -23.532881, "long": -46.792002, "name": "OSASCO"}
+,{"lat": -26.425462, "long": -51.317719, "name": "GENERAL CARNEIRO"}
+,{"lat": -14.917043, "long": -51.075466, "name": "ARUANA"}
+,{"lat": -18.543654, "long": -53.129213, "name": "COSTA RICA"}
+,{"lat": -15.628011, "long": -58.177725, "name": "S. JOSE QTRO MARCOS"}
+,{"lat": -22.418948, "long": -48.450800, "name": "MINEIROS DO TIETE"}
+,{"lat": -18.646039, "long": -48.193836, "name": "ARAGUARI"}
+,{"lat": -10.333440, "long": -58.493001, "name": "JURUENA"}
+,{"lat": -12.259727, "long": -38.964660, "name": "FEIRA DE SANTANA"}
+,{"lat": -19.67511, "long": -51.191333, "name": "PARANAIBA"}
+,{"lat": -10.841524, "long": -61.460134, "name": "RONDOLANDIA"}
+,{"lat": -14.011614, "long": -56.803291, "name": "SAO JOSE RIO CLARO"}
+,{"lat": -22.217584, "long": -49.950529, "name": "MARILIA"}
+,{"lat": -20.817345, "long": -49.521071, "name": "MIRASSOL"}
+,{"lat": -29.688047, "long": -51.133337, "name": "NOVO HAMBURGO"}
+,{"lat": -11.532314, "long": -61.016996, "name": "ESPIGAO D'OESTE"}
+,{"lat": -22.853341, "long": -47.214708, "name": "HORTOLANDIA"}
+,{"lat": -23.266418, "long": -51.052724, "name": "IBIPORA"}
+,{"lat": -23.088677, "long": -47.208954, "name": "INDAIATUBA"}
+,{"lat": -23.277052, "long": -51.280315, "name": "CAMBE"}
+,{"lat": -29.687306, "long": -53.815476, "name": "SANTA MARIA"}
+,{"lat": -26.376650, "long": -48.718888, "name": "ARAQUARI"}
+,{"lat": -10.165715, "long": -54.936759, "name": "MATUPA"}
+,{"lat": -20.235958, "long": -56.375103, "name": "MIRANDA"}
+,{"lat": -20.534071, "long": -49.320355, "name": "NOVA GRANADA"}
+,{"lat": -20.537433, "long": -56.713229, "name": "BODOQUENA"}
+,{"lat": -22.786298, "long": -43.305310, "name": "DUQUE DE CAXIAS"}
+,{"lat": -23.550438, "long": -51.463971, "name": "APUCARANA"}
+,{"lat": -21.202853, "long": -50.453679, "name": "ARACATUBA"}
+,{"lat": -25.459671, "long": -49.527294, "name": "CAMPO LARGO"}
+,{"lat": -23.214071, "long": -46.823891, "name": "VARZEA PAULISTA"}
+,{"lat": -16.440210, "long": -51.118510, "name": "IPORA"}
+,{"lat": -15.312272, "long": -49.116644, "name": "GOIANESIA"}
+,{"lat": -10.249091, "long": -48.324285, "name": "PALMAS"}
+,{"lat": -25.443441, "long": -49.193144, "name": "PINHAIS"}
+,{"lat": -22.457322, "long": -47.532594, "name": "SANTA GERTRUDES"}
+,{"lat": -23.501529, "long": -47.452560, "name": "SOROCABA"}
+,{"lat": -15.820935, "long": -50.609123, "name": "ITAPIRAPUA"}
+,{"lat": -23.003985, "long": -46.846799, "name": "ITATIBA"}
+,{"lat": -21.252513, "long": -48.325676, "name": "JABOTICABAL"}
+,{"lat": -26.482220, "long": -49.073477, "name": "JARAGUA DO SUL"}
+,{"lat": -23.521313, "long": -46.185852, "name": "MOGI DAS CRUZES"}
+,{"lat": -26.894792, "long": -48.655069, "name": "NAVEGANTES"}
+,{"lat": -7.0402685, "long": -55.415249, "name": "NOVO PROGRESSO"}
+,{"lat": -10.636945, "long": -55.708928, "name": "NOVA CANAA DO NORTE"}
+,{"lat": -11.137269, "long": -58.608674, "name": "CASTANHEIRA"}
+,{"lat": -16.183816, "long": -50.778569, "name": "FAZENDA NOVA"}
+,{"lat": -20.441956, "long": -52.878178, "name": "AGUA CLARA"}
+,{"lat": -3.1986664, "long": -52.210400, "name": "ALTAMIRA"}
+,{"lat": -20.893344, "long": -47.592595, "name": "BATATAIS"}
+,{"lat": -19.967307, "long": -44.201190, "name": "BETIM"}
+,{"lat": -26.916579, "long": -49.071733, "name": "BLUMENAU"}
+,{"lat": -15.334594, "long": -58.872779, "name": "JAURU"}
+,{"lat": -14.096112, "long": -50.330410, "name": "NOVA CRIXAS"}
+,{"lat": -21.255537, "long": -52.036494, "name": "BRASILANDIA"}
+,{"lat": -21.131855, "long": -48.977473, "name": "CATANDUVA"}
+,{"lat": -22.765015, "long": -47.150027, "name": "PAULINIA"}
+,{"lat": -16.379170, "long": -49.490577, "name": "INHUMAS"}
+,{"lat": -16.233381, "long": -51.254794, "name": "DIORAMA"}
+,{"lat": -23.415773, "long": -51.426404, "name": "ARAPONGAS"}
+,{"lat": -23.674222, "long": -46.543600, "name": "SANTO ANDRE"}
+,{"lat": -23.223701, "long": -45.900907, "name": "SAO JOSE DOS CAMPOS"}
+,{"lat": -22.737846, "long": -47.333568, "name": "AMERICANA"}
+,{"lat": -20.467004, "long": -55.787294, "name": "AQUIDAUANA"}
+,{"lat": -23.437091, "long": -47.061280, "name": "ARACARIGUAMA"}
+,{"lat": -12.925728, "long": -49.830040, "name": "ARAGUACU"}
+,{"lat": -15.293971, "long": -59.061422, "name": "VALE DE SAO DOMINGOS"}
+,{"lat": -20.417329, "long": -49.970275, "name": "VOTUPORANGA"}
+,{"lat": -10.798555, "long": -37.173460, "name": "LARANJEIRAS"}
+,{"lat": -26.906198, "long": -52.701630, "name": "CORONEL FREITAS"}
+,{"lat": -18.012787, "long": -49.366608, "name": "GOIATUBA"}
+,{"lat": -22.213163, "long": -49.655539, "name": "GARCA"}
+,{"lat": -21.766857, "long": -52.109642, "name": "PRESIDENTE EPITACIO"}
+,{"lat": -27.216093, "long": -49.643501, "name": "RIO DO SUL"}
+,{"lat": -17.79272, "long": -50.919658, "name": "RIO VERDE"}
+,{"lat": -23.644347, "long": -47.572096, "name": "SALTO DE PIRAPORA"}
+,{"lat": -26.258414, "long": -48.634845, "name": "SAO FRANCISCO DO SUL"}
+,{"lat": -5.1083383, "long": -36.632170, "name": "MACAU"}
+,{"lat": -20.144841, "long": -50.197733, "name": "MACEDONIA"}
+,{"lat": -22.436217, "long": -46.822878, "name": "ITAPIRA"}
+,{"lat": -18.409728, "long": -49.216297, "name": "ITUMBIARA"}
+,{"lat": -20.268687, "long": -50.549044, "name": "JALES"}
+,{"lat": -21.027761, "long": -47.777204, "name": "JARDINOPOLIS"}
+,{"lat": -18.872973, "long": -48.877007, "name": "MONTE ALEGRE MINAS"}
+,{"lat": -9.9755912, "long": -55.177861, "name": "NOVO MUNDO"}
+,{"lat": -21.460032, "long": -54.380577, "name": "NOVA ALVORADA DO SUL"}
+,{"lat": -12.672012, "long": -38.547504, "name": "CANDEIAS"}
+,{"lat": -29.913258, "long": -51.186192, "name": "CANOAS"}
+,{"lat": -29.295040, "long": -51.500892, "name": "CARLOS BARBOSA"}
+,{"lat": -27.100934, "long": -52.615699, "name": "CHAPECO"}
+,{"lat": -20.443841, "long": -44.765319, "name": "CLAUDIO"}
+,{"lat": -21.490828, "long": -51.538425, "name": "DRACENA"}
+,{"lat": -29.501873, "long": -51.964063, "name": "ESTRELA"}
+,{"lat": -20.286674, "long": -50.400972, "name": "ESTRELA D OESTE"}
+,{"lat": -22.853210, "long": -46.321697, "name": "EXTREMA"}
+,{"lat": -15.447740, "long": -50.362658, "name": "FAINA"}
+,{"lat": -23.840111, "long": -50.192443, "name": "IBAITI"}
+,{"lat": -25.229304, "long": -50.605413, "name": "IMBITUVA"}
+,{"lat": -21.252867, "long": -50.645850, "name": "GUARARAPES"}
+,{"lat": -14.513481, "long": -56.483880, "name": "ALTO PARAGUAI"}
+,{"lat": -23.108306, "long": -55.225666, "name": "AMAMBAI"}
+,{"lat": -20.087739, "long": -51.096606, "name": "APARECIDA DO TABOADO"}
+,{"lat": -20.916372, "long": -49.448793, "name": "BADY BASSITT"}
+,{"lat": -21.720469, "long": -52.429673, "name": "BATAGUASSU"}
+,{"lat": -22.143024, "long": -48.525575, "name": "BOCAINA"}
+,{"lat": -21.340738, "long": -47.735251, "name": "CRAVINHOS"}
+,{"lat": -22.884180, "long": -48.444165, "name": "BOTUCATU"}
+,{"lat": -29.947722, "long": -51.102116, "name": "CACHOEIRINHA"}
+,{"lat": -18.559839, "long": -51.133265, "name": "CACU"}
+,{"lat": -23.355504, "long": -46.878594, "name": "CAJAMAR"}
+,{"lat": -22.078212, "long": -51.474147, "name": "ALVARES MACHADO"}
+,{"lat": -23.086061, "long": -46.948816, "name": "LOUVEIRA"}
+,{"lat": -4.2670701, "long": -55.993117, "name": "ITAITUBA"}
+,{"lat": -12.233636, "long": -56.640430, "name": "ITANHANGA"}
+,{"lat": -27.096068, "long": -48.617807, "name": "ITAPEMA"}
+,{"lat": -23.157708, "long": -47.043707, "name": "ITUPEVA"}
+,{"lat": -27.415677, "long": -49.603384, "name": "ITUPORANGA"}
+,{"lat": -23.599122, "long": -51.638649, "name": "JANDAIA DO SUL"}
+,{"lat": -16.177735, "long": -50.951225, "name": "JAUPACI"}
+,{"lat": -27.174377, "long": -51.505447, "name": "JOACABA"}
+,{"lat": -23.516986, "long": -51.687206, "name": "MANDAGUARI"}
+,{"lat": -11.084357, "long": -54.521357, "name": "MARCELANDIA"}
+,{"lat": -15.434613, "long": -50.746100, "name": "MATRINCHA"}
+,{"lat": -17.444385, "long": -51.173279, "name": "MONTIVIDIU"}
+,{"lat": -25.482747, "long": -48.829071, "name": "MORRETES"}
+,{"lat": -10.836904, "long": -55.178781, "name": "NOVA SANTA HELENA"}
+,{"lat": -20.717540, "long": -47.885818, "name": "ORLANDIA"}
+,{"lat": -14.467039, "long": -48.454488, "name": "NIQUELANDIA"}
+,{"lat": -21.784827, "long": -48.178648, "name": "ARARAQUARA"}
+,{"lat": -29.617332, "long": -50.929635, "name": "ARARICA"}
+,{"lat": -16.506621, "long": -49.021366, "name": "GOIANAPOLIS"}
+,{"lat": -18.443354, "long": -50.135707, "name": "GOUVELANDIA"}
+,{"lat": -18.753204, "long": -44.430673, "name": "CURVELO"}
+,{"lat": -21.915904, "long": -47.620267, "name": "DESCALVADO"}
+,{"lat": -9.9495234, "long": -55.842153, "name": "CARLINDA"}
+,{"lat": -15.352797, "long": -49.706890, "name": "CARMO DO RIO VERDE"}
+,{"lat": -20.540812, "long": -44.638655, "name": "CARMOPOLIS DE MINAS"}
+,{"lat": -1.2983288, "long": -47.917161, "name": "CASTANHAL"}
+,{"lat": -18.166095, "long": -47.944484, "name": "CATALAO"}
+,{"lat": -21.559176, "long": -50.448474, "name": "CLEMENTINA"}
+,{"lat": -13.661851, "long": -59.785264, "name": "COMODORO"}
+,{"lat": -21.109450, "long": -44.020619, "name": "DORES DE CAMPOS"}
+,{"lat": -27.634908, "long": -52.273736, "name": "ERECHIM"}
+,{"lat": -29.223186, "long": -51.342361, "name": "FARROUPILHA"}
+,{"lat": -15.444343, "long": -58.739660, "name": "FIGUEIROPOLIS DOESTE"}
+,{"lat": -27.595377, "long": -48.548049, "name": "FLORIANOPOLIS"}
+,{"lat": -11.805141, "long": -49.526860, "name": "FORMOSO DO ARAGUAIA"}
+,{"lat": -25.516335, "long": -54.585376, "name": "FOZ DO IGUACU"}
+,{"lat": -20.539328, "long": -47.401343, "name": "FRANCA"}
+,{"lat": -27.360733, "long": -53.396319, "name": "FREDERICO WESTPHALEN"}
+,{"lat": -26.902782, "long": -48.825593, "name": "ILHOTA"}
+,{"lat": -19.728176, "long": -51.928574, "name": "INOCENCIA"}
+,{"lat": -19.736918, "long": -45.251012, "name": "BOM DESPACHO"}
+,{"lat": -3.7318616, "long": -38.526670, "name": "FORTALEZA"}
+,{"lat": -21.682483, "long": -51.074171, "name": "ADAMANTINA"}
+,{"lat": -22.471462, "long": -48.979031, "name": "AGUDOS"}
+,{"lat": -29.991901, "long": -51.081367, "name": "ALVORADA"}
+,{"lat": -7.1927733, "long": -48.204826, "name": "ARAGUAINA"}
+,{"lat": -23.396968, "long": -46.320426, "name": "ARUJA"}
+,{"lat": -23.240021, "long": -51.663976, "name": "ASTORGA"}
+,{"lat": -19.927944, "long": -54.358952, "name": "BANDEIRANTES"}
+,{"lat": -22.314459, "long": -49.058695, "name": "BAURU"}
+,{"lat": -1.4557549, "long": -48.490179, "name": "BELEM"}
+,{"lat": 2.8235098, "long": -60.675833, "name": "BOA VISTA"}
+,{"lat": -16.292221, "long": -50.550758, "name": "CORREGO DO OURO"}
+,{"lat": -28.672770, "long": -49.373377, "name": "CRICIUMA"}
+,{"lat": -27.617831, "long": -53.741034, "name": "BRAGA"}
+,{"lat": -26.776160, "long": -51.012498, "name": "CACADOR"}
+,{"lat": -18.762285, "long": -50.943709, "name": "CACHOEIRA ALTA"}
+,{"lat": -24.730022, "long": -48.108265, "name": "CAJATI"}
+,{"lat": -11.061835, "long": -55.277054, "name": "ITAUBA"}
+,{"lat": -23.254885, "long": -47.293139, "name": "ITU"}
+,{"lat": -7.1194957, "long": -34.845011, "name": "JOAO PESSOA"}
+,{"lat": -22.979879, "long": -49.869937, "name": "OURINHOS"}
+,{"lat": -21.487618, "long": -51.702878, "name": "OURO VERDE"}
+,{"lat": -22.885897, "long": -43.115221, "name": "NITEROI"}
+,{"lat": -23.533777, "long": -46.347736, "name": "POA"}
+,{"lat": -20.449200, "long": -50.883976, "name": "APARECIDA D'OESTE"}
+,{"lat": -20.737111, "long": -48.911060, "name": "OLIMPIA"}
+,{"lat": -12.741403, "long": -60.130456, "name": "VILHENA"}
+,{"lat": -8.870484, "long": -49.716800, "name": "STA MARIA BARREIRAS"}
+,{"lat": -22.511249, "long": -43.177930, "name": "PETROPOLIS"}
+,{"lat": -8.7672709, "long": -63.859738, "name": "S. FRANCISCO GUAPORE"}
+,{"lat": -27.784104, "long": -54.234460, "name": "TRES DE MAIO"}
+,{"lat": -4.9508443, "long": -37.125828, "name": "AREIA BRANCA"}
+,{"lat": -23.623362, "long": -46.555243, "name": "SAO CAETANO DO SUL"}
+,{"lat": -22.843359, "long": -42.103001, "name": "SAO PEDRO DA ALDEIA"}
+,{"lat": -26.874584, "long": -52.404667, "name": "XANXERE"}
+,{"lat": -20.482744, "long": -55.810859, "name": "ANASTACIO"}
+,{"lat": -21.404433, "long": -50.475110, "name": "BILAC"}
+,{"lat": -20.475941, "long": -49.783209, "name": "COSMORAMA"}
+,{"lat": -22.590590, "long": -46.528297, "name": "SOCORRO"}
+,{"lat": -20.788168, "long": -51.703048, "name": "TRES LAGOAS"}
+,{"lat": -15.504067, "long": -49.681562, "name": "URUANA"}
+,{"lat": -12.286185, "long": -55.297332, "name": "VERA"}
+,{"lat": -29.942289, "long": -50.990787, "name": "GRAVATAI"}
+,{"lat": -12.240912, "long": -56.152458, "name": "IPIRANGA DO NORTE"}
+,{"lat": -16.965752, "long": -49.231423, "name": "HIDROLANDIA"}
+,{"lat": -23.185707, "long": -46.897805, "name": "JUNDIAI"}
+,{"lat": -27.098205, "long": -48.911142, "name": "BRUSQUE"}
+,{"lat": -24.957777, "long": -53.459511, "name": "CASCAVEL"}
+,{"lat": -29.852463, "long": -51.184575, "name": "ESTEIO"}
+,{"lat": -24.067196, "long": -53.846629, "name": "FRANCISCO ALVES"}
+,{"lat": -22.292324, "long": -49.550822, "name": "GALIA"}
+,{"lat": -22.718608, "long": -42.627983, "name": "RIO BONITO"}
+,{"lat": -32.035377, "long": -52.107580, "name": "RIO GRANDE"}
+,{"lat": -14.474890, "long": -59.588999, "name": "NOVA LACERDA"}
+,{"lat": -17.355828, "long": -52.680414, "name": "PORTELANDIA"}
+,{"lat": -19.310150, "long": -48.927729, "name": "PRATA"}
+,{"lat": -18.447644, "long": -50.455159, "name": "QUIRINOPOLIS"}
+,{"lat": -25.424570, "long": -50.004856, "name": "PALMEIRA"}
+,{"lat": -28.286650, "long": -53.498932, "name": "PANAMBI"}
+,{"lat": -25.516572, "long": -48.522997, "name": "PARANAGUA"}
+,{"lat": -23.082122, "long": -52.462215, "name": "PARANAVAI"}
+,{"lat": -21.779768, "long": -50.791792, "name": "PARAPUA"}
+,{"lat": -17.934808, "long": -49.933269, "name": "SANTO ANTONIO GOIAS"}
+,{"lat": -8.0256958, "long": -50.032126, "name": "REDENCAO"}
+,{"lat": -19.447486, "long": -54.986370, "name": "RIO NEGRO"}
+,{"lat": -15.766869, "long": -51.104166, "name": "SANTA FE DE GOIAS"}
+,{"lat": -13.815812, "long": -55.274335, "name": "SANTA RITA TRIVELATO"}
+,{"lat": -21.975045, "long": -51.653094, "name": "SANTO ANASTACIO"}
+,{"lat": -23.057376, "long": -51.044934, "name": "SERTANOPOLIS"}
+,{"lat": -21.149460, "long": -47.992365, "name": "SERTAOZINHO"}
+,{"lat": -19.45738, "long": -44.241669, "name": "SETE LAGOAS"}
+,{"lat": -23.622875, "long": -46.781664, "name": "TABOAO DA SERRA"}
+,{"lat": -20.438300, "long": -54.865241, "name": "TERENOS"}
+,{"lat": -26.825137, "long": -49.26952, "name": "TIMBO"}
+,{"lat": -28.292455, "long": -49.937587, "name": "SAO JOAQUIM"}
+,{"lat": -27.614079, "long": -48.637086, "name": "SAO JOSE"}
+,{"lat": -16.125264, "long": -50.214179, "name": "MOSSAMEDES"}
+,{"lat": -25.407950, "long": -52.413474, "name": "LARANJEIRAS DO SUL"}
+,{"lat": -21.248487, "long": -45.001374, "name": "LAVRAS"}
+,{"lat": -22.181340, "long": -47.384557, "name": "LEME"}
+,{"lat": -23.286018, "long": -47.679028, "name": "BOITUVA"}
+,{"lat": -13.651109, "long": -49.836631, "name": "BONOPOLIS"}
+,{"lat": -3.1190275, "long": -60.021731, "name": "MANAUS"}
+,{"lat": -16.763784, "long": -49.437704, "name": "ABADIA DE GOIAS"}
+,{"lat": -16.197690, "long": -48.706060, "name": "ABADIANIA"}
+,{"lat": -23.300074, "long": -50.313476, "name": "ABATIA"}
+,{"lat": -9.6214275, "long": -49.152279, "name": "ABREULANDIA"}
+,{"lat": -17.396443, "long": -50.375361, "name": "ACREUNA"}
+,{"lat": -6.8034776, "long": -50.486322, "name": "AGUA AZUL DO NORTE"}
+,{"lat": -27.075908, "long": -52.981355, "name": "AGUAS DE CHAPECO"}
+,{"lat": -22.600006, "long": -47.875040, "name": "AGUAS DE SAO PEDRO"}
+,{"lat": -20.320809, "long": -49.914588, "name": "ALVARES FLORENCE"}
+,{"lat": -22.708059, "long": -46.772665, "name": "AMPARO"}
+,{"lat": -22.185637, "long": -52.719546, "name": "ANAURILANDIA"}
+,{"lat": -20.899007, "long": -51.379703, "name": "ANDRADINA"}
+,{"lat": -27.517852, "long": -48.768445, "name": "ANTONIO CARLOS"}
+,{"lat": -27.159179, "long": -52.142768, "name": "ARABUTA"}
+,{"lat": -10.947246, "long": -37.073082, "name": "ARACAJU"}
+,{"lat": -15.091294, "long": -50.631966, "name": "ARAGUAPAZ"}
+,{"lat": -23.117549, "long": -46.556706, "name": "ATIBAIA"}
+,{"lat": -20.684183, "long": -50.548464, "name": "AURIFLAMA"}
+,{"lat": -2.1331723, "long": -47.560683, "name": "AURORA DO PARA"}
+,{"lat": -7.2032098, "long": -47.759013, "name": "BABACULANDIA"}
+,{"lat": -22.472994, "long": -48.563754, "name": "BARRA BONITA"}
+,{"lat": -26.633143, "long": -48.684660, "name": "BARRA VELHA"}
+,{"lat": -20.553618, "long": -48.570285, "name": "BARRETOS"}
+,{"lat": -20.949552, "long": -48.479536, "name": "BEBEDOURO"}
+,{"lat": -16.972556, "long": -48.955026, "name": "BELA VISTA DE GOIAS"}
+,{"lat": -22.764539, "long": -43.399626, "name": "BELFORD ROXO"}
+,{"lat": -29.166708, "long": -51.516986, "name": "BENTO GONCALVES"}
+,{"lat": -21.291505, "long": -50.343631, "name": "BIRIGUI"}
+,{"lat": -15.924922, "long": -48.812149, "name": "CORUMBA DE GOIAS"}
+,{"lat": -23.602668, "long": -46.919469, "name": "COTIA"}
+,{"lat": -28.279373, "long": -49.157540, "name": "BRACO DO NORTE"}
+,{"lat": -20.846704, "long": -41.120219, "name": "CACHOEIRO ITAPEMIRIM"}
+,{"lat": -22.013210, "long": -51.236260, "name": "CAIABU"}
+,{"lat": -23.361219, "long": -46.740186, "name": "CAIEIRAS"}
+,{"lat": -22.611883, "long": -46.057707, "name": "CAMBUI"}
+,{"lat": -7.2223666, "long": -35.873466, "name": "CAMPINA GRANDE"}
+,{"lat": -25.304882, "long": -49.055569, "name": "CAMPINA GRANDE SUL"}
+,{"lat": -20.99419, "long": -47.65155, "name": "BRODOSQUI"}
+,{"lat": -21.773270, "long": -50.466489, "name": "ARCO-IRIS"}
+,{"lat": -20.287772, "long": -45.539695, "name": "ARCOS"}
+,{"lat": -25.679302, "long": -49.535522, "name": "CONTENDA"}
+,{"lat": -22.478262, "long": -47.452335, "name": "CORDEIROPOLIS"}
+,{"lat": -19.827987, "long": -54.831346, "name": "CORGUINHO"}
+,{"lat": -20.644517, "long": -50.363752, "name": "GENERAL SALGADO"}
+,{"lat": -16.506372, "long": -49.422337, "name": "GOIANIRA"}
+,{"lat": -15.93397, "long": -50.140383, "name": "GOIAS"}
+,{"lat": -22.210270, "long": -45.263055, "name": "CRISTINA"}
+,{"lat": -19.971926, "long": -47.775768, "name": "DELTA"}
+,{"lat": -23.681839, "long": -46.620967, "name": "DIADEMA"}
+,{"lat": -26.177081, "long": -50.395488, "name": "CANOINHAS"}
+,{"lat": -18.682836, "long": -49.570656, "name": "CAPINOPOLIS"}
+,{"lat": -6.5246827, "long": -39.491973, "name": "CARIUS"}
+,{"lat": -7.336239, "long": -47.463841, "name": "CAROLINA"}
+,{"lat": -7.8460741, "long": -35.251714, "name": "CARPINA"}
+,{"lat": -24.789572, "long": -50.011245, "name": "CASTRO"}
+,{"lat": -23.038481, "long": -49.165989, "name": "CERQUEIRA CESAR"}
+,{"lat": -27.611106, "long": -53.167748, "name": "CERRO GRANDE"}
+,{"lat": -23.226521, "long": -47.954909, "name": "CESARIO LANGE"}
+,{"lat": -25.146659, "long": -53.846644, "name": "CEU AZUL"}
+,{"lat": -18.394909, "long": -52.665368, "name": "CHAPADAO DO CEU"}
+,{"lat": -12.555827, "long": -60.902974, "name": "CHUPINGUAIA"}
+,{"lat": -20.709608, "long": -48.531825, "name": "COLINA"}
+,{"lat": -25.292978, "long": -49.226634, "name": "COLOMBO"}
+,{"lat": -22.838683, "long": -51.973015, "name": "COLORADO"}
+,{"lat": -8.2617601, "long": -49.269347, "name": "CONCEICAO ARAGUAIA"}
+,{"lat": -19.628662, "long": -43.993560, "name": "CONFINS"}
+,{"lat": -14.558783, "long": -59.572501, "name": "CONQUISTA D'OESTE"}
+,{"lat": -23.385191, "long": -53.294286, "name": "DOURADINA"}
+,{"lat": -17.335518, "long": -49.928388, "name": "EDEIA"}
+,{"lat": -13.868123, "long": -49.070718, "name": "ESTRELA DO NORTE"}
+,{"lat": -24.002172, "long": -51.325618, "name": "FAXINAL"}
+,{"lat": -15.540441, "long": -47.337429, "name": "FORMOSA"}
+,{"lat": -26.077944, "long": -53.05199, "name": "FRANCISCO BELTRAO"}
+,{"lat": -23.279738, "long": -46.745227, "name": "FRANCISCO MORATO"}
+,{"lat": -23.323372, "long": -46.729457, "name": "FRANCO DA ROCHA"}
+,{"lat": -20.026376, "long": -48.935994, "name": "FRUTAL"}
+,{"lat": -29.258164, "long": -51.528916, "name": "GARIBALDI"}
+,{"lat": -26.934095, "long": -48.953906, "name": "GASPAR"}
+,{"lat": -10.791056, "long": -49.620387, "name": "LAGOA DA CONFUSAO"}
+,{"lat": -18.854931, "long": -41.955923, "name": "GOVERNADOR VALADARES"}
+,{"lat": -21.623088, "long": -49.797038, "name": "GUAICARA"}
+,{"lat": -21.890123, "long": -49.031419, "name": "IACANGA"}
+,{"lat": -21.756707, "long": -48.832361, "name": "IBITINGA"}
+,{"lat": -22.51256, "long": -48.553987, "name": "IGARACU DO TIETE"}
+,{"lat": -20.042178, "long": -47.756399, "name": "IGARAPAVA"}
+,{"lat": -28.388536, "long": -53.918066, "name": "IJUI"}
+,{"lat": -28.227627, "long": -48.669128, "name": "IMBITUBA"}
+,{"lat": -26.899744, "long": -49.235898, "name": "INDAIAL"}
+,{"lat": -17.139191, "long": -49.986616, "name": "INDIARA"}
+,{"lat": -17.722004, "long": -48.158560, "name": "IPAMERI"}
+,{"lat": -16.830108, "long": -49.534981, "name": "GUAPO"}
+,{"lat": -22.969900, "long": -51.650890, "name": "GUARACI"}
+,{"lat": -25.390721, "long": -51.462809, "name": "GUARAPUAVA"}
+,{"lat": -23.994844, "long": -46.256867, "name": "GUARUJA"}
+,{"lat": -27.134587, "long": -52.789160, "name": "GUATAMBU"}
+,{"lat": -19.212147, "long": -49.786302, "name": "GURINHATA"}
+,{"lat": -22.373408, "long": -48.386057, "name": "DOIS CORREGOS"}
+,{"lat": -28.983501, "long": -51.840095, "name": "DOIS LAJEADOS"}
+,{"lat": -23.088847, "long": -47.787275, "name": "JUMIRIM"}
+,{"lat": -27.815462, "long": -50.326356, "name": "LAGES"}
+,{"lat": -28.209221, "long": -51.525608, "name": "LAGOA VERMELHA"}
+,{"lat": -22.552346, "long": -55.151380, "name": "LAGUNA CARAPA"}
+,{"lat": -20.153267, "long": -41.622895, "name": "LAJINHA"}
+,{"lat": -23.051050, "long": -47.838004, "name": "LARANJAL PAULISTA"}
+,{"lat": -19.394665, "long": -40.065264, "name": "LINHARES"}
+,{"lat": -21.673276, "long": -49.747145, "name": "LINS"}
+,{"lat": -22.733872, "long": -45.120111, "name": "LORENA"}
+,{"lat": -21.718674, "long": -51.021986, "name": "LUCELIA"}
+,{"lat": -9.6498487, "long": -35.708949, "name": "MACEIO"}
+,{"lat": -26.339669, "long": -49.906112, "name": "ITAIOPOLIS"}
+,{"lat": -14.952105, "long": -49.550791, "name": "ITAPACI"}
+,{"lat": -19.903350, "long": -49.366014, "name": "ITAPAGIPE"}
+,{"lat": -21.010006, "long": -40.831057, "name": "ITAPEMIRIM"}
+,{"lat": -23.549265, "long": -46.933196, "name": "ITAPEVI"}
+,{"lat": -27.169898, "long": -53.710833, "name": "ITAPIRANGA"}
+,{"lat": -18.765010, "long": -51.348985, "name": "ITARUMA"}
+,{"lat": -19.726890, "long": -50.193840, "name": "ITURAMA"}
+,{"lat": -20.334520, "long": -47.792134, "name": "ITUVERAVA"}
+,{"lat": -16.607370, "long": -50.792120, "name": "IVOLANDIA"}
+,{"lat": -8.157523, "long": -34.933295, "name": "JABOATAO GUARARAPES"}
+,{"lat": -23.298782, "long": -45.966254, "name": "JACAREI"}
+,{"lat": -20.139070, "long": -54.400121, "name": "JARAGUARI"}
+,{"lat": -17.740518, "long": -46.174163, "name": "JOAO PINHEIRO"}
+,{"lat": -23.546558, "long": -47.190663, "name": "MAIRINQUE"}
+,{"lat": -23.317956, "long": -46.588517, "name": "MAIRIPORA"}
+,{"lat": -14.493223, "long": -46.111572, "name": "MAMBAI"}
+,{"lat": -23.346240, "long": -52.094858, "name": "MANDAGUACU"}
+,{"lat": -24.519422, "long": -51.672332, "name": "MANOEL RIBAS"}
+,{"lat": -22.107236, "long": -51.962154, "name": "MARABA PAULISTA"}
+,{"lat": -3.8674127, "long": -38.626111, "name": "MARACANAU"}
+,{"lat": -26.765004, "long": -53.174528, "name": "MARAVILHA"}
+,{"lat": -24.556227, "long": -54.062754, "name": "M.AL CANDIDO RONDON"}
+,{"lat": -23.484792, "long": -51.793289, "name": "MARIALVA"}
+,{"lat": -20.439366, "long": -50.825854, "name": "MARINOPOLIS"}
+,{"lat": -23.668163, "long": -46.461708, "name": "MAUA"}
+,{"lat": -20.355761, "long": -50.175327, "name": "MERIDIANO"}
+,{"lat": -21.133104, "long": -51.102338, "name": "MIRANDOPOLIS"}
+,{"lat": -19.839208, "long": -45.413112, "name": "MOEMA"}
+,{"lat": -16.544124, "long": -50.738963, "name": "MOIPORA"}
+,{"lat": -22.455799, "long": -47.019391, "name": "MOJI MIRIM"}
+,{"lat": -27.101909, "long": -53.399086, "name": "MONDAI"}
+,{"lat": -22.69004, "long": -46.682606, "name": "MONTE ALEGRE DO SUL"}
+,{"lat": -22.945530, "long": -47.312632, "name": "MONTE MOR"}
+,{"lat": -17.734945, "long": -49.120851, "name": "MORRINHOS"}
+,{"lat": -13.773377, "long": -50.281827, "name": "MUNDO NOVO"}
+,{"lat": -5.7792569, "long": -35.200916, "name": "NATAL"}
+,{"lat": -29.378234, "long": -51.111506, "name": "NOVA PETROPOLIS"}
+,{"lat": -29.850764, "long": -51.274108, "name": "NOVA SANTA RITA"}
+,{"lat": -27.283640, "long": -48.916775, "name": "NOVA TRENTO"}
+,{"lat": -28.634274, "long": -49.506032, "name": "NOVA VENEZA"}
+,{"lat": -11.389708, "long": -57.315797, "name": "NOVO HORIZONTE NORTE"}
+,{"lat": -4.334255, "long": -49.798834, "name": "NOVO REPARTIMENTO"}
+,{"lat": -6.7518914, "long": -51.077418, "name": "OURILANDIA DO NORTE"}
+,{"lat": -21.016121, "long": -49.499103, "name": "NOVA ALIANCA"}
+,{"lat": -28.679018, "long": -52.166454, "name": "NOVA ALVORADA"}
+,{"lat": -15.021031, "long": -49.895746, "name": "NOVA AMERICA"}
+,{"lat": -23.189186, "long": -52.200489, "name": "NOVA ESPERANCA"}
+,{"lat": -22.288726, "long": -42.534079, "name": "NOVA FRIBURGO"}
+,{"lat": -15.145400, "long": -49.574160, "name": "NOVA GLORIA"}
+,{"lat": -21.089749, "long": -48.660702, "name": "PIRANGI"}
+,{"lat": -17.348869, "long": -44.946808, "name": "PIRAPORA"}
+,{"lat": -21.996464, "long": -47.426194, "name": "PIRASSUNUNGA"}
+,{"lat": -24.402840, "long": -54.041227, "name": "PLANALTO"}
+,{"lat": -21.785378, "long": -46.561930, "name": "POCOS DE CALDAS"}
+,{"lat": -20.784972, "long": -49.814994, "name": "POLONI"}
+,{"lat": -22.100739, "long": -50.185825, "name": "POMPEIA"}
+,{"lat": -29.702032, "long": -51.243405, "name": "PORTAO"}
+,{"lat": -3.8885327, "long": -42.700199, "name": "PORTO"}
+,{"lat": -11.533409, "long": -57.413727, "name": "PORTO DOS GAUCHOS"}
+,{"lat": -24.008872, "long": -46.412503, "name": "PRAIA GRANDE"}
+,{"lat": -21.873702, "long": -51.845226, "name": "PRESIDENTE VENCESLAU"}
+,{"lat": -17.250120, "long": -49.244453, "name": "PROFESSOR JAMIL"}
+,{"lat": -23.455470, "long": -52.042337, "name": "PAICANDU"}
+,{"lat": -20.390515, "long": -49.431313, "name": "PALESTINA"}
+,{"lat": -26.480323, "long": -51.990876, "name": "PALMAS"}
+,{"lat": -27.900178, "long": -53.314035, "name": "PALMEIRA DAS MISSOES"}
+,{"lat": -16.807845, "long": -49.919836, "name": "PALMEIRAS DE GOIAS"}
+,{"lat": -17.326276, "long": -48.426473, "name": "PALMELO"}
+,{"lat": -22.787936, "long": -50.219993, "name": "PALMITAL"}
+,{"lat": -22.608306, "long": -43.711254, "name": "PARACAMBI"}
+,{"lat": -22.158874, "long": -43.290473, "name": "PARAIBA DO SUL"}
+,{"lat": -18.914514, "long": -50.654392, "name": "PARANAIGUARA"}
+,{"lat": -16.948078, "long": -50.44827, "name": "PARAUNA"}
+,{"lat": -28.258054, "long": -52.409624, "name": "PASSO FUNDO"}
+,{"lat": -20.645681, "long": -47.275329, "name": "PATROCINIO PAULISTA"}
+,{"lat": -20.643665, "long": -51.111052, "name": "PEREIRA BARRETO"}
+,{"lat": -16.105736, "long": -49.334253, "name": "PETROLINA DE GOIAS"}
+,{"lat": -21.592614, "long": -50.600815, "name": "PIACATU"}
+,{"lat": -23.807866, "long": -47.723236, "name": "PILAR DO SUL"}
+,{"lat": -17.305056, "long": -49.020528, "name": "PIRACANJUBA"}
+,{"lat": -22.605339, "long": -46.914966, "name": "SANTO ANTONIO POSSE"}
+,{"lat": -8.0578381, "long": -34.882896, "name": "RECIFE"}
+,{"lat": -11.494094, "long": -39.425683, "name": "RETIROLANDIA"}
+,{"lat": -22.067781, "long": -48.177368, "name": "RIBEIRAO BONITO"}
+,{"lat": -9.975377, "long": -67.824897, "name": "RIO BRANCO"}
+,{"lat": -22.414902, "long": -47.565139, "name": "RIO CLARO"}
+,{"lat": -7.3144326, "long": -50.046231, "name": "RIO MARIA"}
+,{"lat": -19.953332, "long": -54.888288, "name": "ROCHEDO"}
+,{"lat": -26.924378, "long": -49.368826, "name": "RODEIO"}
+,{"lat": -23.310596, "long": -51.366412, "name": "ROLANDIA"}
+,{"lat": -19.884526, "long": -43.826722, "name": "SABARA"}
+,{"lat": -23.315988, "long": -51.555490, "name": "SABAUDIA"}
+,{"lat": -21.627200, "long": -50.861840, "name": "SALMOURAO"}
+,{"lat": -23.200080, "long": -47.293538, "name": "SALTO"}
+,{"lat": -25.776765, "long": -53.314935, "name": "SALTO DO LONTRA"}
+,{"lat": -27.950568, "long": -51.814860, "name": "SANANDUVA"}
+,{"lat": -16.567951, "long": -49.692001, "name": "SANTA BARBARA GOIAS"}
+,{"lat": -28.367207, "long": -53.251729, "name": "SANTA BARBARA DO SUL"}
+,{"lat": -22.755742, "long": -47.414758, "name": "STA BARBARA D'OESTE"}
+,{"lat": -11.973873, "long": -55.278771, "name": "SANTA CARMEM"}
+,{"lat": -22.899381, "long": -49.625118, "name": "SANTA CRUZ RIO PARDO"}
+,{"lat": -21.349988, "long": -51.756833, "name": "SANTA MERCEDES"}
+,{"lat": -21.302068, "long": -52.833826, "name": "SANTA RITA DO PARDO"}
+,{"lat": -21.490920, "long": -47.37045, "name": "SANTA ROSA VITERBO"}
+,{"lat": -23.967882, "long": -46.328886, "name": "SANTOS"}
+,{"lat": -26.250036, "long": -49.383556, "name": "SAO BENTO DO SUL"}
+,{"lat": -23.689842, "long": -46.564848, "name": "SAO BERNARDO CAMPO"}
+,{"lat": -27.900112, "long": -48.930144, "name": "SAO BONIFACIO"}
+,{"lat": -11.012236, "long": -37.205933, "name": "SAO CRISTOVAO"}
+,{"lat": -29.962127, "long": -51.725010, "name": "SAO JERONIMO"}
+,{"lat": -21.971231, "long": -46.794798, "name": "SAO JOAO BOA VISTA"}
+,{"lat": -25.445267, "long": -54.401318, "name": "STA TEREZINHA ITAIPU"}
+,{"lat": -18.847344, "long": -50.123832, "name": "SANTA VITORIA"}
+,{"lat": -5.1842919, "long": -37.346676, "name": "SANTO ANTONIO"}
+,{"lat": -17.558952, "long": -50.635003, "name": "SANTO ANTONIO BARRA"}
+,{"lat": -2.5863467, "long": -51.949150, "name": "SEN JOSE PORFIRIO"}
+,{"lat": -25.380390, "long": -54.052334, "name": "SERRANOPOLIS IGUACU"}
+,{"lat": -20.930668, "long": -54.969721, "name": "SIDROLANDIA"}
+,{"lat": -28.064872, "long": -52.006173, "name": "TAPEJARA"}
+,{"lat": -12.742803, "long": -56.512528, "name": "TAPURAH"}
+,{"lat": -23.349218, "long": -47.846576, "name": "TATUI"}
+,{"lat": -17.540030, "long": -39.742181, "name": "TEIXEIRA DE FREITAS"}
+,{"lat": -22.531436, "long": -52.173371, "name": "TEODORO SAMPAIO"}
+,{"lat": -22.790766, "long": -43.369936, "name": "SAO JOAO DE MERITI"}
+,{"lat": -26.621774, "long": -48.768753, "name": "SAO JOAO DO ITAPERIU"}
+,{"lat": -7.4686612, "long": -37.274657, "name": "SAO JOSE DO EGITO"}
+,{"lat": -27.725537, "long": -54.127985, "name": "SAO JOSE DO INHACORA"}
+,{"lat": -16.521513, "long": -50.373084, "name": "S. LUIS MONTES BELOS"}
+,{"lat": -29.590473, "long": -51.373852, "name": "SAO SEBASTIAO DO CAI"}
+,{"lat": -29.635385, "long": -51.006954, "name": "SAPIRANGA"}
+,{"lat": -23.444592, "long": -51.876504, "name": "SARANDI"}
+,{"lat": -27.946449, "long": -52.916406, "name": "SARANDI"}
+,{"lat": -26.420172, "long": -49.071163, "name": "SCHROEDER"}
+,{"lat": -16.708853, "long": -49.091845, "name": "SENADOR CANEDO"}
+,{"lat": -26.956060, "long": -52.536007, "name": "XAXIM"}
+,{"lat": -17.995585, "long": -42.392222, "name": "AGUA BOA"}
+,{"lat": -26.998941, "long": -51.553312, "name": "AGUA DOCE"}
+,{"lat": -13.924057, "long": -49.296683, "name": "AMARALINA"}
+,{"lat": -16.909152, "long": -49.448099, "name": "ARAGOIANIA"}
+,{"lat": -27.313486, "long": -49.636601, "name": "AURORA"}
+,{"lat": -23.276569, "long": -55.530271, "name": "CORONEL SAPUCAIA"}
+,{"lat": -20.877760, "long": -48.806791, "name": "CAJOBI"}
+,{"lat": -12.787034, "long": -38.403295, "name": "SIMOES FILHO"}
+,{"lat": -21.692578, "long": -45.251546, "name": "TRES CORACOES"}
+,{"lat": -24.542990, "long": -52.989492, "name": "UBIRATA"}
+,{"lat": -11.531191, "long": -54.362111, "name": "UNIAO DO SUL"}
+,{"lat": -14.524648, "long": -49.146899, "name": "URUACU"}
+,{"lat": -10.433045, "long": -62.131298, "name": "VALE DO PARAISO"}
+,{"lat": -22.970293, "long": -46.997814, "name": "VALINHOS"}
+,{"lat": -27.005945, "long": -51.740739, "name": "VARGEM BONITA"}
+,{"lat": -23.599829, "long": -47.022488, "name": "VARG GDE PAULISTA"}
+,{"lat": -29.614801, "long": -52.193676, "name": "VENANCIO AIRES"}
+,{"lat": -25.058163, "long": -53.877605, "name": "VERA CRUZ DO OESTE"}
+,{"lat": -28.942718, "long": -51.550736, "name": "VERANOPOLIS"}
+,{"lat": -19.688806, "long": -43.924312, "name": "VESPASIANO"}
+,{"lat": -20.754865, "long": -42.878578, "name": "VICOSA"}
+,{"lat": -27.005207, "long": -51.154395, "name": "VIDEIRA"}
+,{"lat": -28.847880, "long": -51.890148, "name": "GUAPORE"}
+,{"lat": -16.251477, "long": -47.917755, "name": "LUZIANIA"}
+,{"lat": -22.383670, "long": -41.782746, "name": "MACAE"}
+,{"lat": -20.806243, "long": -49.963646, "name": "MACAUBAL"}
+,{"lat": -22.583719, "long": -47.523413, "name": "IRACEMAPOLIS"}
+,{"lat": -23.421774, "long": -49.092471, "name": "ITAI"}
+,{"lat": -5.8327845, "long": -43.835677, "name": "BURITI BRAVO"}
+,{"lat": -9.9061054, "long": -63.033041, "name": "ARIQUEMES"}
+,{"lat": -32.233155, "long": -53.086694, "name": "ARROIO GRANDE"}
+,{"lat": -23.891615, "long": -46.424414, "name": "CUBATAO"}
+,{"lat": -15.609631, "long": -57.919391, "name": "CURVELANDIA"}
+,{"lat": -22.746666, "long": -50.388047, "name": "CANDIDO MOTA"}
+,{"lat": -27.262109, "long": -48.766269, "name": "CANELINHA"}
+,{"lat": -16.323983, "long": -43.715446, "name": "CAPITAO ENEAS"}
+,{"lat": -20.264310, "long": -40.420302, "name": "CARIACICA"}
+,{"lat": -22.483672, "long": -42.201543, "name": "CASIMIRO DE ABREU"}
+,{"lat": -18.794332, "long": -52.619192, "name": "CHAPADAO DO SUL"}
+,{"lat": -23.662890, "long": -52.611935, "name": "CIANORTE"}
+,{"lat": -30.111533, "long": -51.630750, "name": "ELDORADO DO SUL"}
+,{"lat": -23.830209, "long": -46.814042, "name": "EMBU-GUACU"}
+,{"lat": -22.557171, "long": -52.589673, "name": "EUCLIDES CUNHA PTA"}
+,{"lat": -25.662846, "long": -49.307786, "name": "FAZENDA RIO GRANDE"}
+,{"lat": -17.522969, "long": -49.449391, "name": "PONTALINA"}
+,{"lat": -27.484426, "long": -50.377972, "name": "PONTE ALTA"}
+,{"lat": -20.415231, "long": -50.763157, "name": "PALMEIRA D'OESTE"}
+,{"lat": -19.860014, "long": -44.607531, "name": "PARA DE MINAS"}
+,{"lat": -23.282892, "long": -52.605922, "name": "PARAISO DO NORTE"}
+,{"lat": -26.229720, "long": -52.671135, "name": "PATO BRANCO"}
+,{"lat": -7.8324789, "long": -50.039918, "name": "PAU D ARCO"}
+,{"lat": -11.672363, "long": -61.198481, "name": "PIMENTA BUENO"}
+,{"lat": -15.074683, "long": -58.459041, "name": "RESERVA DO CABACAL"}
+,{"lat": -15.248756, "long": -58.126399, "name": "RIO BRANCO"}
+,{"lat": -21.804700, "long": -54.543269, "name": "RIO BRILHANTE"}
+,{"lat": -23.413870, "long": -52.766060, "name": "RONDON"}
+,{"lat": -23.407969, "long": -45.887414, "name": "SANTA BRANCA"}
+,{"lat": -26.965592, "long": -50.417897, "name": "SANTA CECILIA"}
+,{"lat": -29.475235, "long": -52.084776, "name": "SANTA CLARA DO SUL"}
+,{"lat": -21.595053, "long": -48.816370, "name": "ITAPOLIS"}
+,{"lat": -15.554475, "long": -49.941727, "name": "ITAPURANGA"}
+,{"lat": -17.048596, "long": -50.145777, "name": "JANDAIA"}
+,{"lat": -20.906964, "long": -48.639171, "name": "MONTE AZUL PAULISTA"}
+,{"lat": -18.730711, "long": -47.491667, "name": "MONTE CARMELO"}
+,{"lat": -26.898643, "long": -52.907079, "name": "NOVA ERECHIM"}
+,{"lat": -26.116427, "long": -49.809106, "name": "MAFRA"}
+,{"lat": -20.474248, "long": -45.961986, "name": "PIUMHI"}
+,{"lat": -12.973040, "long": -38.502304, "name": "SALVADOR"}
+,{"lat": -18.905580, "long": -40.075944, "name": "JAGUARE"}
+,{"lat": -23.545320, "long": -46.311625, "name": "SUZANO"}
+,{"lat": -19.979391, "long": -50.139502, "name": "MIRA ESTRELA"}
+,{"lat": -23.305819, "long": -47.136701, "name": "CABREUVA"}
+,{"lat": -24.282155, "long": -53.834598, "name": "PALOTINA"}
+,{"lat": -22.696139, "long": -51.797422, "name": "SANTO INACIO"}
+,{"lat": -27.703291, "long": -52.42195, "name": "PAULO BENTO"}
+,{"lat": -26.892643, "long": -53.171562, "name": "CUNHA PORA"}
+,{"lat": -23.443004, "long": -46.922663, "name": "SANTANA DE PARNAIBA"}
+,{"lat": -6.6607091, "long": -37.399936, "name": "SERRA NEGRA DO NORTE"}
+,{"lat": -18.307175, "long": -51.959109, "name": "SERRANOPOLIS"}
+,{"lat": -7.670398, "long": -36.879064, "name": "SUME"}
+,{"lat": -23.636420, "long": -55.014649, "name": "TACURU"}
+,{"lat": -23.020455, "long": -45.556355, "name": "TAUBATE"}
+,{"lat": -12.295441, "long": -38.635090, "name": "TEODORO SAMPAIO"}
+,{"lat": -10.525278, "long": -55.220278, "name": "TERRA NOVA DO NORTE"}
+,{"lat": -22.548739, "long": -47.910032, "name": "SAO PEDRO"}
+,{"lat": -21.369924, "long": -45.511316, "name": "TRES PONTAS"}
+,{"lat": -23.766106, "long": -53.320610, "name": "UMUARAMA"}
+,{"lat": -12.082104, "long": -41.097111, "name": "UTINGA"}
+,{"lat": -12.681871, "long": -56.921099, "name": "VILA BELA SS. TRIND."}
+,{"lat": -21.480396, "long": -56.149414, "name": "JARDIM"}
+,{"lat": -11.907766, "long": -61.778206, "name": "SANTA LUZIA D'OESTE"}
+,{"lat": -26.158102, "long": -52.971324, "name": "RENASCENCA"}
+,{"lat": -28.369039, "long": -54.269115, "name": "ENTRE-IJUIS"}
+,{"lat": -20.422149, "long": -50.089392, "name": "VALENTIM GENTIL"}
+,{"lat": -21.354440, "long": -51.856666, "name": "PANORAMA"}
+,{"lat": -22.080496, "long": -54.793886, "name": "ITAPORA"}
+,{"lat": -22.149507, "long": -51.172103, "name": "MARTINOPOLIS"}
+,{"lat": -19.943302, "long": -44.341383, "name": "JUATUBA"}
+,{"lat": -21.611002, "long": -55.168269, "name": "MARACAJU"}
+,{"lat": -23.528028, "long": -46.902762, "name": "JANDIRA"}
+,{"lat": -23.960765, "long": -46.396079, "name": "SAO VICENTE"}
+,{"lat": -16.728640, "long": -43.858213, "name": "MONTES CLAROS"}
+,{"lat": -2.5391099, "long": -44.282904, "name": "SAO LUIS"}
+]
