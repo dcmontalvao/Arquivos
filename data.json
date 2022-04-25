@@ -1,4 +1,5 @@
-[{"lat": -16.4701628734998, "long": -54.6335870401784, "name": "RONDONOPOLIS"}
+[
+ {"lat": -16.4701628734998, "long": -54.6335870401784, "name": "RONDONOPOLIS"}
 ,{"lat": -15.9559696, "long": -54.9751847, "name": "JACIARA"}
 ,{"lat": -15.8887114516953, "long": -52.2603297567721, "name": "BARRA DO GARCAS"}
 ,{"lat": -10.6572906, "long": -51.5703097, "name": "CONFRESA"}
@@ -758,4 +759,5 @@
 ,{"lat": -23.5280281, "long": -46.9027629, "name": "JANDIRA"}
 ,{"lat": -23.9607656, "long": -46.3960797, "name": "SAO VICENTE"}
 ,{"lat": -16.7286406, "long": -43.8582139, "name": "MONTES CLAROS"}
-,{"lat": -2.5391099, "long": -44.28290459999999, "name": "SAO LUIS"}]
+,{"lat": -2.5391099, "long": -44.28290459999999, "name": "SAO LUIS"}
+]
